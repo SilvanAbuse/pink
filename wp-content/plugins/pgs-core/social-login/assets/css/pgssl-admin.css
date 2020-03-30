@@ -1,0 +1,53 @@
+.pgssl-settings-meta-box-wrap .pgssl-custom-integration-pre {
+	border-radius: 3px;
+	padding: 10px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+.pgssl-settings-meta-box-wrap .pgssl-custom-integration-pre.pgssl-custom-integration-pre-action {
+	background-color: #FFFFE0;
+	border: 1px solid #E6DB55;
+}
+
+.pgssl-settings-meta-box-wrap .pgssl-custom-integration-pre.pgssl-custom-integration-pre-shortcode {
+	background-color: #EDEFF4;
+	border: 1px solid #6B84B4;
+}
+
+
+.pgssl-settings-meta-box-wrap .new-provider-list {
+	padding: 10px;
+	border: 1px solid #ddd;
+}
+
+.pgssl-settings-meta-box-wrap .postbox .new-provider-list a {
+	text-decoration: none;
+}
+
+.pgssl-settings-meta-box-wrap .postbox .new-provider-list a .pgssl-nework-setup-icon {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+}
+
+.pgssl-settings-meta-box-wrap .postbox.pgssl-postbox .pgssl-nework-setup-icon {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+}
+
+.pgssl-settings-meta-box-wrap .postbox.pgssl-postbox input {
+	width: 100%;
+}
+
+#pgssl_div_warn {
+	padding:10px;
+	border:1px solid #ddd;
+	background-color:#fff;
+	width:55%;
+	margin:30px auto 0;
+}

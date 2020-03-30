@@ -1,0 +1,86 @@
+<?php
+$group_5755766bb9e23_field_data = array(
+	'key'                   => 'group_5755766bb9e23',
+	'title'                 => 'Post Format - Quote',
+	'fields'                => array(
+		array(
+			'key'               => 'field_57557681e2878',
+			'label'             => 'Quote',
+			'name'              => 'quote',
+			'type'              => 'textarea',
+			'instructions'      => '',
+			'required'          => 0,
+			'conditional_logic' => 0,
+			'wrapper'           => array(
+				'width' => '',
+				'class' => '',
+				'id'    => '',
+			),
+			'default_value'     => '',
+			'placeholder'       => '',
+			'maxlength'         => '',
+			'rows'              => '',
+			'new_lines'         => 'br',
+		),
+		array(
+			'key'               => 'field_575576a6e2879',
+			'label'             => 'Quote Author',
+			'name'              => 'quote_author',
+			'type'              => 'text',
+			'instructions'      => '',
+			'required'          => 0,
+			'conditional_logic' => 0,
+			'wrapper'           => array(
+				'width' => '',
+				'class' => '',
+				'id'    => '',
+			),
+			'default_value'     => '',
+			'placeholder'       => '',
+			'prepend'           => '',
+			'append'            => '',
+			'maxlength'         => '',
+		),
+		array(
+			'key'               => 'field_575576bae287a',
+			'label'             => 'Author Link',
+			'name'              => 'author_link',
+			'type'              => 'url',
+			'instructions'      => 'Enter author URL if available.',
+			'required'          => 0,
+			'conditional_logic' => 0,
+			'wrapper'           => array(
+				'width' => '',
+				'class' => '',
+				'id'    => '',
+			),
+			'default_value'     => '',
+			'placeholder'       => '',
+		),
+	),
+	'location'              => array(
+		array(
+			array(
+				'param'    => 'post_type',
+				'operator' => '==',
+				'value'    => 'post',
+			),
+			array(
+				'param'    => 'post_format',
+				'operator' => '==',
+				'value'    => 'quote',
+			),
+		),
+	),
+	'menu_order'            => 0,
+	'position'              => 'normal',
+	'style'                 => 'default',
+	'label_placement'       => 'top',
+	'instruction_placement' => 'field',
+	'hide_on_screen'        => '',
+	'active'                => 1,
+	'description'           => '',
+	'modified'              => 1487679190,
+);
+acf_add_local_field_group( apply_filters( 'post_format_quote_group_5755766bb9e23', $group_5755766bb9e23_field_data ) );
+
