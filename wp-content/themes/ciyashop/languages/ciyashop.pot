@@ -1,0 +1,4654 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CiyaShop 3.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2020-03-16 16:12+0530\n"
+"PO-Revision-Date: 2016-09-09 18:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: Potenza Global Solutions http://www.potenzaglobalsolutions."
+"com/\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n:1,2;_nx:1,2;_n_noop:1,2;_nx_noop:1,2;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/tgm-plugin-activation/core\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: .git\n"
+
+#: 404.php:99
+msgid "404"
+msgstr ""
+
+#: 404.php:100
+msgid "Oops ! Sorry We Can't Find That Page."
+msgstr ""
+
+#: 404.php:104
+#, php-format
+msgid ""
+"Can't find what you looking for? Take a moment and do a search below or "
+"start from our <a class='error-search-box-description-link' href='%s'>Home "
+"Page</a>"
+msgstr ""
+
+#: 404.php:173 404.php:175
+msgid "404 Image"
+msgstr ""
+
+#: archive-portfolio.php:71 includes/vc/theme-vc-templates-panel-editor.php:125
+msgid "All"
+msgstr ""
+
+#: archive-portfolio.php:138 template-parts/posts-pagination.php:13
+msgid "Previous page"
+msgstr ""
+
+#: archive-portfolio.php:139 template-parts/posts-pagination.php:14
+msgid "Next page"
+msgstr ""
+
+#: archive-portfolio.php:140 includes/base_functions.php:4899
+#: template-parts/posts-pagination.php:15
+msgid "Page"
+msgstr ""
+
+#: archive-portfolio.php:165 includes/scripts_and_styles.php:227
+#: template-parts/blog/timeline.php:47 woocommerce/loop/pagination.php:53
+msgid "Load more..."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:102 woocommerce/single-product-reviews.php:88
+msgid "Name"
+msgstr ""
+
+#: comments.php:106 woocommerce/single-product-reviews.php:90
+msgid "Email"
+msgstr ""
+
+#: comments.php:110
+msgid "Website"
+msgstr ""
+
+#: comments.php:113
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:118
+msgid "Comment"
+msgstr ""
+
+#: functions.php:18 functions.php:402
+#: includes/woocommerce/single-product.php:809
+msgid "CiyaShop"
+msgstr ""
+
+#: functions.php:23
+msgid "CiyaShop Theme Options"
+msgstr ""
+
+#: functions.php:217
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:218
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:219
+msgid "Categories Menu"
+msgstr ""
+
+#: functions.php:220
+msgid "Topbar Menu"
+msgstr ""
+
+#: functions.php:221
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:222
+msgid "Shortcode - Vertical Menu"
+msgstr ""
+
+#: functions.php:401
+msgid "CiyaShop Welcome"
+msgstr ""
+
+#: includes/acf/acf.php:66
+msgid "Enter valid YouTube URL."
+msgstr ""
+
+#: includes/acf/acf.php:77
+msgid "Enter valid Vimeo URL."
+msgstr ""
+
+#: includes/admin/admin-init.php:46
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: includes/admin/class-ciyashop-product-attributes.php:53
+#: includes/admin/class-ciyashop-product-attributes.php:71
+msgid "Enable Swatch?"
+msgstr ""
+
+#: includes/admin/class-ciyashop-product-attributes.php:55
+#: includes/admin/class-ciyashop-product-attributes.php:75
+msgid "Check this checkbox to enable attributes swatch."
+msgstr ""
+
+#: includes/admin/class-ciyashop-product-attributes.php:118
+msgid "Attributes Options"
+msgstr ""
+
+#: includes/admin/class-ciyashop-product-attributes.php:122
+msgid "Image preview"
+msgstr ""
+
+#: includes/admin/class-ciyashop-product-attributes.php:146
+msgid "Color Preview"
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:46
+msgid "Purchase code removed."
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:51
+msgid "Please enter purchase code."
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:62
+msgid "Please enter a valid purchase code."
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:72
+msgid "Purchase code already activated on this website."
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:98
+#, php-format
+msgid ""
+"There was an error processing your request; please try again later. Error: %s"
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:127
+#, php-format
+msgid ""
+"There was an error processing your request with http status code %d; please "
+"try again later."
+msgstr ""
+
+#: includes/admin/class-ciyashop-theme-activation.php:139
+msgid "Unable to verify security check. Please try to reload the page."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:96
+msgid ""
+"You need to set an image as a featured image to be able to use it as an menu "
+"item image"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:185
+#: includes/admin/nav-menu-images/inc/fields-helper.php:193
+msgid "Change Menu Image"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:188
+#: includes/admin/nav-menu-images/inc/fields-helper.php:200
+msgid "Upload Menu Image"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:198
+#: includes/admin/nav-menu-images/inc/fields-helper.php:212
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:256
+msgid "Save"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/admin.php:256
+#: includes/woocommerce/single-product.php:612 sidebar-shop-left.php:33
+#: sidebar-shop-right.php:47
+msgid "Close"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:11
+msgid "Select widget area"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:21
+msgid "Link Anchor"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:22
+msgid "Enter the anchor where you want to navigate."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:23
+msgid "#example"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:28
+msgid "Menu Color Scheme"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:30
+msgid "Light"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:31
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:33
+msgid "Select the menu color scheme."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:39
+msgid "Design Type"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:41
+#: includes/widgets/pgs_wc-widget-layered-nav.php:88
+msgid "Dropdown"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:42
+msgid "Mega menu"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:44
+msgid "Select the menu design type."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:50
+msgid "Mega Menu Type"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:52
+msgid "Full Width"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:53
+msgid "Custom Size"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:55
+msgid "Select the mega menu design type."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:61
+msgid "Mega Menu Width"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:62
+msgid "Enter menu width."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:69
+msgid "Mega Menu Height"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:70
+msgid "Enter menu height."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:77
+msgid "Static block"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:82
+#, php-format
+msgid ""
+"Note : Make sure You have added Static Block in <a href=\"%1$s\" target="
+"\"_blank\">Static Blocks</a> section. <strong>Don't create menu subitems if "
+"you using static block!</strong>"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:94
+msgid "Select option"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:100
+msgid "Columns"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:102
+msgid "2 Column"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:103
+msgid "3 Column"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:104
+msgid "4 Column"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:105
+msgid "5 Column"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:106
+msgid "6 Column"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:108
+msgid "Select the column."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:114
+msgid "Widget area"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:121
+msgid "Open Submenu On Click"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:123
+msgid "First click will open a sub menu, second click will close the sub menu."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:129
+msgid "Enable Menu Link"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:131
+msgid "First click will open a sub menu, second click will follow the link."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:137
+msgid "Select Icon"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:139
+msgid "Select or search menu icon"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:144
+msgid "Label"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:146
+msgid "Enter menu item label"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:151
+msgid "Label Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:153
+msgid "Red Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:154
+msgid "Green Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:155
+msgid "Orange Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:156
+msgid "Blue Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:157
+msgid "Black Color"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:160
+msgid "Select menu label color."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:165
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:166
+msgid "Select menu image."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:173
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:175
+msgid "Background-repeat"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:176
+msgid "No Repeat"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:177
+msgid "Repeat All"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:178
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:179
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:180
+#: includes/admin/nav-menu-images/inc/menu-fields.php:191
+#: includes/vc/shortcodes/vc_custom_heading.php:27
+#: includes/vc/shortcodes/vc_custom_heading.php:49
+#: includes/vc/shortcodes/vc_custom_heading.php:66
+msgid "Inherit"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:183
+msgid "Select image background repeat type."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:189
+msgid "Background Size"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:192
+msgid "Cover"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:193
+msgid "Contain"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:196
+msgid "Select image background size."
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:202
+msgid "Background Position"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:204
+msgid "Background-position"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:205
+#: includes/vc/shortcodes/vc_column.php:105
+#: includes/vc/shortcodes/vc_column_inner.php:105
+#: includes/vc/shortcodes/vc_row.php:105
+#: includes/vc/shortcodes/vc_row_inner.php:105
+msgid "Left Top"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:206
+#: includes/vc/shortcodes/vc_column.php:106
+#: includes/vc/shortcodes/vc_column_inner.php:106
+#: includes/vc/shortcodes/vc_row.php:106
+#: includes/vc/shortcodes/vc_row_inner.php:106
+msgid "Left Center"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:207
+#: includes/vc/shortcodes/vc_column.php:107
+#: includes/vc/shortcodes/vc_column_inner.php:107
+#: includes/vc/shortcodes/vc_row.php:107
+#: includes/vc/shortcodes/vc_row_inner.php:107
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:208
+#: includes/vc/shortcodes/vc_column.php:112
+#: includes/vc/shortcodes/vc_column_inner.php:112
+#: includes/vc/shortcodes/vc_row.php:112
+#: includes/vc/shortcodes/vc_row_inner.php:112
+msgid "Center Center"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:209
+#: includes/vc/shortcodes/vc_column.php:113
+#: includes/vc/shortcodes/vc_column_inner.php:113
+#: includes/vc/shortcodes/vc_row.php:113
+#: includes/vc/shortcodes/vc_row_inner.php:113
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:210
+#: includes/vc/shortcodes/vc_column.php:108
+#: includes/vc/shortcodes/vc_column_inner.php:108
+#: includes/vc/shortcodes/vc_row.php:108
+#: includes/vc/shortcodes/vc_row_inner.php:108
+msgid "Right Top"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:211
+#: includes/vc/shortcodes/vc_column.php:109
+#: includes/vc/shortcodes/vc_column_inner.php:109
+#: includes/vc/shortcodes/vc_row.php:109
+#: includes/vc/shortcodes/vc_row_inner.php:109
+msgid "Right Center"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:212
+#: includes/vc/shortcodes/vc_column.php:110
+#: includes/vc/shortcodes/vc_column_inner.php:110
+#: includes/vc/shortcodes/vc_row.php:110
+#: includes/vc/shortcodes/vc_row_inner.php:110
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/admin/nav-menu-images/inc/menu-fields.php:215
+msgid "Select image background position."
+msgstr ""
+
+#: includes/admin/panel/panel.php:69
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1883
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/admin/panel/panel.php:89
+msgid "License"
+msgstr ""
+
+#: includes/admin/panel/templates/header.php:16
+#, php-format
+msgid ""
+"Congratulations! %1$s is now active and ready to use. %1$s is an elegant, "
+"clean, beautiful and responsive multipurpose WordPress theme."
+msgstr ""
+
+#: includes/admin/panel/templates/header.php:26
+#, php-format
+msgid ""
+"%1$s contains many useful features and functionalities. And, it requires "
+"some plugins to be pre-installed to enable all inbuilt features and "
+"functionalities."
+msgstr ""
+
+#: includes/admin/panel/templates/header.php:45
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:57
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:63
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:768
+msgid "Purchase code ( e.g. 9g2b13fa-10aa-2267-883a-9201a94cf9b5 )"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:69
+msgid "Check"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:75
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:770
+msgid "Instructions to find the Purchase Code"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:77
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:772
+msgid "Log into your Envato Market account."
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:78
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:773
+msgid "Hover the mouse over your username at the top of the screen."
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:79
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:774
+msgid "Click 'Downloads' from the drop-down menu."
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:85
+#, php-format
+msgid ""
+"Click 'License certificate & purchase code' (available as PDF or text file). "
+"For more information <a href=\"%1$s\" target=\"_blank\">click here</a>."
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:105
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:791
+msgid "Note:"
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:105
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:791
+msgid ""
+"you are allowed to use our theme only on one domain if you have purchased a "
+"regular license. "
+msgstr ""
+
+#: includes/admin/panel/templates/license.php:105
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:791
+msgid ""
+"But we give you an ability to activate our theme to turn on auto updates on "
+"two domains: for the development website and for your production (live) "
+"website."
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:4
+#, php-format
+msgid ""
+"%1$s comes with six months of free support for every license you purchase. "
+"You can extend the support through subscriptions via ThemeForest."
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:13
+msgid "Ticket System"
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:14
+msgid ""
+"We offer excellent support through our support system. Make sure to register "
+"your purchase first to access our support services and other resources."
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:16
+msgid "Submit a ticket"
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:24 includes/promo_notice.php:71
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:29
+#, php-format
+msgid ""
+"Our online documentation is a useful resource for learning every aspect and "
+"features of %1$s."
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:35
+msgid "Learn more"
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:42
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:47
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: includes/admin/panel/templates/support.php:53
+msgid "Watch Videos"
+msgstr ""
+
+#: includes/base_functions.php:299
+#: template-parts/header/topbar-elements/login.php:13
+#: woocommerce/custom/login-form.php:43
+msgid "Login"
+msgstr ""
+
+#: includes/base_functions.php:301
+#: includes/woocommerce/wc-functions-front.php:389
+msgid "Logout"
+msgstr ""
+
+#: includes/base_functions.php:314
+msgid "Copyright"
+msgstr ""
+
+#: includes/base_functions.php:314
+msgid "All Rights Reserved."
+msgstr ""
+
+#: includes/base_functions.php:382
+#, php-format
+msgid "Developed and designed by %s"
+msgstr ""
+
+#: includes/base_functions.php:383 includes/theme-setup-wizard/wizard.php:99
+msgid "Potenza Global Solutions"
+msgstr ""
+
+#: includes/base_functions.php:500 includes/base_functions.php:4687
+msgid "Home"
+msgstr ""
+
+#: includes/base_functions.php:642
+msgid "Facebook"
+msgstr ""
+
+#: includes/base_functions.php:647
+msgid "Twitter"
+msgstr ""
+
+#: includes/base_functions.php:652
+msgid "Google+"
+msgstr ""
+
+#: includes/base_functions.php:657
+msgid "Dribbble"
+msgstr ""
+
+#: includes/base_functions.php:662
+msgid "Vimeo"
+msgstr ""
+
+#: includes/base_functions.php:667
+msgid "Pinterest"
+msgstr ""
+
+#: includes/base_functions.php:672
+msgid "Behance"
+msgstr ""
+
+#: includes/base_functions.php:677
+msgid "Linkedin"
+msgstr ""
+
+#: includes/base_functions.php:682
+msgid "YouTube"
+msgstr ""
+
+#: includes/base_functions.php:687
+msgid "instagram"
+msgstr ""
+
+#: includes/base_functions.php:735
+msgid "Monday"
+msgstr ""
+
+#: includes/base_functions.php:736
+msgid "Tuesday"
+msgstr ""
+
+#: includes/base_functions.php:737
+msgid "Wednesday"
+msgstr ""
+
+#: includes/base_functions.php:738
+msgid "Thursday"
+msgstr ""
+
+#: includes/base_functions.php:739
+msgid "Friday"
+msgstr ""
+
+#: includes/base_functions.php:740
+msgid "Saturday"
+msgstr ""
+
+#: includes/base_functions.php:741
+msgid "Sunday"
+msgstr ""
+
+#: includes/base_functions.php:1071
+msgid "Related Posts"
+msgstr ""
+
+#: includes/base_functions.php:1138
+#: template-parts/content-archive_header.php:36
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: includes/base_functions.php:1421 includes/base_functions.php:1423
+msgid "Update PGS Core"
+msgstr ""
+
+#: includes/base_functions.php:1422
+msgid ""
+"Please ensure to update PGS Core plugin to latest version to enable features."
+msgstr ""
+
+#: includes/base_functions.php:1433 includes/base_functions.php:1435
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:736
+msgid "Activate Theme"
+msgstr ""
+
+#: includes/base_functions.php:1434
+msgid "Please activate theme to enable the theme features."
+msgstr ""
+
+#: includes/base_functions.php:1507
+msgid "Custome Sidebar"
+msgstr ""
+
+#: includes/base_functions.php:1650
+msgid "Search for Theme options"
+msgstr ""
+
+#: includes/base_functions.php:4712
+msgid "Daily Archives:"
+msgstr ""
+
+#: includes/base_functions.php:4714
+msgid "Monthly Archives:"
+msgstr ""
+
+#: includes/base_functions.php:4714 template-parts/blog/timeline.php:7
+#: template-parts/page-header/title.php:31
+msgid "F Y"
+msgstr ""
+
+#: includes/base_functions.php:4716
+msgid "Yearly Archives:"
+msgstr ""
+
+#: includes/base_functions.php:4716 template-parts/page-header/title.php:34
+msgid "Y"
+msgstr ""
+
+#: includes/base_functions.php:4729
+msgid "Archive Page"
+msgstr ""
+
+#: includes/base_functions.php:4872 includes/base_functions.php:4878
+#: includes/base_functions.php:4883 includes/base_functions.php:4886
+#: includes/base_functions.php:4889 template-parts/page-header/title.php:47
+msgid "Archives"
+msgstr ""
+
+#: includes/base_functions.php:4875
+msgid ".Archives"
+msgstr ""
+
+#: includes/base_functions.php:4902
+msgid "Search results for"
+msgstr ""
+
+#: includes/base_functions.php:5190
+msgid "Quick view"
+msgstr ""
+
+#: includes/base_functions.php:5191 includes/base_functions.php:5197
+msgid "Quick View"
+msgstr ""
+
+#: includes/class-ciyashop-admin-notices.php:159
+msgid "Update \"WPBakery Page Builder\""
+msgstr ""
+
+#: includes/class-ciyashop-admin-notices.php:161
+msgid ""
+"The current version of the theme contains a significant change in the "
+"<strong>Font Awesome</strong> fonts for compatibility with the latest "
+"version of the <strong>WPBakery Page Builder</strong>. The latest version of "
+"the WPBakery Page Builder plugin is bundled with the current release of the "
+"theme.<br><br>So, please update the <strong>PGS Core</strong>, and "
+"<strong>WPBakery Page Builder</strong> plugins and clear server-side cache."
+msgstr ""
+
+#: includes/comments.php:10
+msgid "Pingback:"
+msgstr ""
+
+#: includes/comments.php:10 includes/comments.php:63
+#: template-parts/entry_meta.php:75
+msgid "Edit"
+msgstr ""
+
+#: includes/comments.php:30
+msgid "Post author"
+msgstr ""
+
+#: includes/comments.php:36
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/comments.php:46
+msgid "Reply"
+msgstr ""
+
+#: includes/comments.php:58
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/custom_sidebar.php:12
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/custom_sidebar.php:29
+msgid "You cannot delete this sidebar. This sidebar is already in use."
+msgstr ""
+
+#: includes/custom_sidebar.php:30
+msgid "Are you sure you want to delete sidebar?"
+msgstr ""
+
+#: includes/custom_sidebar.php:39
+msgid "Custom Sidebar Widget"
+msgstr ""
+
+#: includes/custom_sidebar.php:41
+msgid "Enter Sidebar Name"
+msgstr ""
+
+#: includes/custom_sidebar.php:42
+msgid "Create"
+msgstr ""
+
+#: includes/menus.php:121
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: includes/menus/maxmegamenu.php:4
+msgid "CiyaShop (Default Menu)"
+msgstr ""
+
+#: includes/menus/maxmegamenu.php:105
+msgid "CiyaShop (Categories Menu)"
+msgstr ""
+
+#: includes/menus/maxmegamenu.php:203
+msgid "CiyaShop (Shortcode - Vertical Menu)"
+msgstr ""
+
+#: includes/promo_notice.php:68
+msgid ""
+"Thanks for Purchasing our item and being part of <strong>Potenza</strong>. "
+"If you like our Item and support, Please share your honest rate and review. "
+"Your detailed review in Comments will add more value to our services! "
+"Advance Thanks in Anticipation!"
+msgstr ""
+
+#: includes/promo_notice.php:70
+msgid "Rate it 5&#9733;'s"
+msgstr ""
+
+#: includes/promo_notice.php:72
+msgid "Video Tutorial"
+msgstr ""
+
+#: includes/promo_notice.php:73
+msgid "View Demo"
+msgstr ""
+
+#: includes/promo_notice.php:74
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:412
+msgid "Support"
+msgstr ""
+
+#: includes/sample-data.php:1175
+msgid ""
+"Importing this demo will import only sample data for \"Portfolio\" post type."
+msgstr ""
+
+#: includes/scripts_and_styles.php:13 includes/scripts_and_styles.php:18
+msgid "on"
+msgstr ""
+
+#: includes/scripts_and_styles.php:217 includes/woocommerce/compare.php:41
+#: includes/woocommerce/single-product.php:939
+msgid "Compare"
+msgstr ""
+
+#: includes/scripts_and_styles.php:218 includes/woocommerce/wish-list.php:41
+msgid "Wishlist"
+msgstr ""
+
+#: includes/scripts_and_styles.php:228 template-parts/preloader/default.php:14
+#: template-parts/preloader/default.php:29
+#: template-parts/preloader/default.php:38
+msgid "Loading..."
+msgstr ""
+
+#: includes/scripts_and_styles.php:229
+msgid "No more product to load"
+msgstr ""
+
+#: includes/scripts_and_styles.php:327
+msgid "Menu Settings"
+msgstr ""
+
+#: includes/scripts_and_styles.php:328
+msgid "Please enter Client ID to proceed."
+msgstr ""
+
+#: includes/sidebars.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: includes/sidebars.php:13
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: includes/sidebars.php:23
+msgid "Shop/Product Listing Sidebar"
+msgstr ""
+
+#: includes/sidebars.php:25
+msgid "Add widgets here to appear on product list page."
+msgstr ""
+
+#: includes/sidebars.php:35
+msgid "Product Details Sidebar"
+msgstr ""
+
+#: includes/sidebars.php:37
+msgid "Add widgets here to appear on product details page."
+msgstr ""
+
+#: includes/sidebars.php:47
+msgid "Product Shop Filters"
+msgstr ""
+
+#: includes/sidebars.php:49
+msgid "Add widgets here to appear on product shop filters."
+msgstr ""
+
+#: includes/sidebars.php:60
+msgid "Footer 1"
+msgstr ""
+
+#: includes/sidebars.php:62 includes/sidebars.php:74 includes/sidebars.php:86
+#: includes/sidebars.php:98 includes/sidebars.php:110 includes/sidebars.php:122
+#: includes/sidebars.php:134
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: includes/sidebars.php:72
+msgid "Footer 2"
+msgstr ""
+
+#: includes/sidebars.php:84
+msgid "Footer 3"
+msgstr ""
+
+#: includes/sidebars.php:96
+msgid "Footer 4"
+msgstr ""
+
+#: includes/sidebars.php:108
+msgid "Footer 5"
+msgstr ""
+
+#: includes/sidebars.php:120
+msgid "Footer 6"
+msgstr ""
+
+#: includes/sidebars.php:132
+msgid "Footer 7"
+msgstr ""
+
+#: includes/template-functions.php:213 includes/woocommerce/wc-functions.php:13
+msgid "Categories"
+msgstr ""
+
+#: includes/template-functions.php:751
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: includes/template-functions.php:755
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: includes/template-functions.php:763 includes/template-functions.php:771
+#: includes/template-functions.php:775
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: includes/template-functions.php:787
+#: includes/widgets/pgs_instagram_widgets.php:73
+#: includes/widgets/pgs_instagram_widgets.php:75
+#: includes/widgets/pgs_instagram_widgets_2.php:72
+#: includes/widgets/pgs_instagram_widgets_2.php:74
+msgid "Instagram Image"
+msgstr ""
+
+#: includes/template-functions.php:836
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: includes/template-tags.php:61
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/template-tags.php:68
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: includes/template-tags.php:77
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/template-tags.php:86 template-parts/content-faq.php:67
+#: template-parts/content-page.php:48 template-parts/content-team.php:60
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/template-tags.php:100 template-parts/content.php:86
+#: template-parts/entry_footer.php:21
+msgid "Share it on"
+msgstr ""
+
+#: includes/template-tags.php:174
+msgid "Comment navigation"
+msgstr ""
+
+#: includes/template-tags.php:177
+msgid "Older Comments"
+msgstr ""
+
+#: includes/template-tags.php:187
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:33
+msgid "PGS Core"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:44
+msgid "PGS QRCode"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:55
+msgid "Visual Composer"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:66
+msgid "Massive Addons for Visual Composer"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:77
+msgid "Slider Revolution"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:88
+msgid "Redux Framework"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:95
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:106
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:113
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:120
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:127
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:134
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:141
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:148
+msgid "Instagram Shop by Snapppt"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:155
+msgid "YITH WooCommerce Brands Add-on"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:162
+msgid "Store Locator WordPress"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-init.php:169
+msgid "Envato Market"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:343
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:344
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:354
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:355
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:381
+msgid "Introduction"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:388
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:798
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1005
+msgid "Activate"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:394
+msgid "Child Theme"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:401
+msgid "Plugins"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:407
+msgid "Content"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:417
+msgid "Ready!"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:458
+msgid "...verifying"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:521
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:551
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:562
+#: includes/theme-setup-wizard/wizard.php:95
+#, php-format
+msgid "&copy; Created by %s"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:639
+#, php-format
+msgid "Post type %s not found."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:641
+#, php-format
+msgid "Looking for post id %s"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:655
+#, php-format
+msgid "Welcome to the steps for setting the %s theme."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:656
+msgid ""
+"It seems that you have already been through the setup medium. Below are some "
+"choices:"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:660
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:666
+msgid "Cancel"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:672
+#, php-format
+msgid "Welcome to %s Setup Wizard"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:673
+#, php-format
+msgid "Thank you for choosing %s theme."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:674
+msgid ""
+"This setup wizard will help you to refresh and configure your website with a "
+"new layout. You will have Child Theme, Content, and Plugins installed in "
+"5-10 minutes (depending on your server configuration). "
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:675
+msgid ""
+"No time right now? If you do not want to go through the wizard, you can "
+"skip, and get back to WordPress dashboard. Come back any time to continue!"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:678
+msgid "Let's Go!"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:680
+msgid "Not right now"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:722
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:737
+msgid "Enter purchase code to activate your theme."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:755
+msgid "Purchase code successfully verified."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:780
+#, php-format
+msgid ""
+"Click 'License certificate & purchase code' (available as PDF or text file). "
+"Click <a href=\"%s\" target=\"_blank\">here</a> for more information."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:803
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:990
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1272
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1573
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1722
+msgid "Continue"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:922
+msgid "Default Plugins"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:946
+msgid ""
+"The following plugins can be installed for some supplemented features to "
+"your website:"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:956
+msgid "Required"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:965
+msgid "Needed for this version"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:976
+msgid "Please acivate theme using Purchase Code to display plugins list."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:981
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:987
+msgid ""
+"Please, note that every external plugin can affect your website loading "
+"speed. You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1006
+msgid "Activation required"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1007
+msgid "Install"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1008
+msgid "Installation required"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1009
+msgid "Update and Activate"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1010
+msgid "Update and Activation required"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1011
+msgid "Update required"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1012
+msgid "Update"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1025
+msgid "View details"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1073
+msgid "No Slug Found"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1095
+msgid "Activating Plugin"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1110
+msgid "Updating Plugin"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1125
+msgid "Installing Plugin"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1139
+msgid "Success"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1176
+msgid "Default Content"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1178
+msgid ""
+"Select the most suitable option from the below mentioned list of variants to "
+"complete the default content for your website. Also, choose the appropriate "
+"pages to be imported from the list. The WordPress dashboard handles this "
+"content once you import them."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1183
+msgid ""
+"One, or more, required plugins (listed below) not installed or activated. "
+"Some features may not work correctly, i.e., Sample Data import."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1201
+msgid "Please acivate theme using Purchase Code to display sample data list."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1255
+msgid "Live Preview"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1273
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1565
+msgid "Skip this step"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1537
+#, php-format
+msgid "Setup %s Child Theme (Optional)"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1539
+msgid ""
+"If you want any alterations or changes done on the source code, please use a "
+"child theme. Your source code will remain unaffected and meanwhile, your "
+"parent theme will get all the updates. The changes in the HTML/CSS/PHP code "
+"must be refrained. Use the form below to create and activate the Child Theme."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1543
+msgid ""
+"If you don't want to use the child theme, please click on 'Skip this step'"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1557
+msgid "Child Theme Title"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1562
+msgid "Create and Use Child Theme"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1651
+#, php-format
+msgid ""
+"Child Theme %1$s created and activated! Folder is located in wp-content/"
+"themes/%2$s"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1679
+msgid "Help and Support"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1680
+msgid ""
+"This theme is entitled to assist for 6 months item support from the date of "
+"purchase (you can definitely lengthen the time). With respect to this "
+"license, the theme can be used on one website. To use on another site, "
+"please buy an additional license."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1685
+#, php-format
+msgid ""
+"You can get the item support from <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener\">Potenza Support Center</a> and that is comprised of:"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1694
+msgid "Item Support comprises of:"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1696
+msgid "In detail explanation of the technical elements of the product"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1697
+msgid "Help if there is any error or concern."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1698
+msgid "Extensive support for 3rd party plugins (bundled)."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1702
+msgid "Item Support <strong>DOES NOT</strong> comprise of:"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1704
+msgid "Customization services"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1705
+msgid "Installation services"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1706
+msgid "Assistance for non-bundled 3rd party plugins."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1716
+#, php-format
+msgid ""
+"ThemeForest <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Item Support "
+"Policy</a> can be used to gather extra details about the item support."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1738
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1740
+msgid ""
+"Praises to you, your website is ready now. The required themes have been "
+"turned on to enhance the functionality of your site. You can modify the "
+"content and make required changes, if important by logging into the "
+"WordPress Dashboard."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1745
+#, php-format
+msgid ""
+"Please encourage us by <a href=\"%s\" target=\"_blank\" rel=\"noopener"
+"\">dropping 5-star</a>."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1755
+msgid "Next Steps"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1757
+msgid "Follow PotenzaGlobalSolutions on ThemeForest"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1758
+msgid "View your new website!"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1764
+msgid "More Resources"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1766
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1767
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1768
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1769
+msgid "Get Help and Support"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1892
+#, php-format
+msgid ""
+"You're almost there. %1$s contains many useful features and functionalities. "
+"For this, some settings are to be done, to enable all features and "
+"functionalities. And, %2$s Setup Wizard might be of a great help to you for "
+"same."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1898
+msgid "Run the Setup Wizard"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1898
+msgid "Skip setup"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1915
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup.php:1919
+msgid "You don&#8217;t have permission to do this."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup_init.php:79
+msgid "Upgrade"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup_init.php:80
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup_init.php:81
+msgid "Pending."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup_init.php:82
+msgid "Installing Updates."
+msgstr ""
+
+#: includes/theme-setup-wizard/envato_setup/envato_setup_init.php:83
+msgid "Success."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:16
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:25
+msgid "Icon library"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:18
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:27
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:19
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:28
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:20
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:29
+msgid "Typicons"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:21
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:30
+msgid "Entypo"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:22
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:31
+msgid "Linecons"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:23
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:32
+msgid "Mono Social"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:24
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:33
+msgid "Material"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:25
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:34
+msgid "Flaticon"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:26
+msgid "Themify"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:30
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:38
+msgid "Select icon library."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:45
+#: includes/vc/shortcodes/shortcode-vc-icon.php:61
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:42
+msgid "Icon"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-icon.php:57
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:54
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:18
+msgid "Style"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:23
+msgid "Callouts"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:26
+msgid "Select message box design style."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:38
+msgid "Hide Icon"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:40
+msgid "Check this to hide icon."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:41
+#: includes/vc/shortcodes/shortcode-vc-message.php:48
+#: includes/vc/shortcodes/shortcode-vc-tta-accordion.php:31
+#: includes/vc/shortcodes/shortcode-vc-tta-tabs.php:31
+#: includes/vc/shortcodes/shortcode-vc-tta-tour.php:31
+msgid "Additional Settings"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:45
+msgid "Closeable Box"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-message.php:47
+msgid "Check this to display close button."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-accordion.php:28
+msgid "Boxed Icon"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-accordion.php:30
+msgid "Check this to display icon surrounded with box."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:13
+msgid "Before title"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:14
+msgid "After title"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:20
+msgid "Icon position"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:21
+msgid "Select icon position."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:67
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-section.php:69
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-tabs.php:28
+msgid "Full Width Tabs"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-tabs.php:30
+msgid "Check this to display tabs equaly divided to width of tabs area."
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-tour.php:28
+msgid "Icon Alignment"
+msgstr ""
+
+#: includes/vc/shortcodes/shortcode-vc-tta-tour.php:30
+msgid ""
+"Check this to display icon top/bottom of title based on left/right alignment."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:14
+#: includes/vc/shortcodes/vc_column_inner.php:14
+#: includes/vc/shortcodes/vc_row.php:14
+#: includes/vc/shortcodes/vc_row_inner.php:14
+msgid "Large Devices (&#8805;1200px)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:16
+#: includes/vc/shortcodes/vc_column.php:46
+#: includes/vc/shortcodes/vc_column.php:53
+#: includes/vc/shortcodes/vc_column.php:65
+#: includes/vc/shortcodes/vc_column.php:76
+#: includes/vc/shortcodes/vc_column_inner.php:16
+#: includes/vc/shortcodes/vc_column_inner.php:46
+#: includes/vc/shortcodes/vc_column_inner.php:53
+#: includes/vc/shortcodes/vc_column_inner.php:65
+#: includes/vc/shortcodes/vc_column_inner.php:76
+#: includes/vc/shortcodes/vc_row.php:16 includes/vc/shortcodes/vc_row.php:46
+#: includes/vc/shortcodes/vc_row.php:53 includes/vc/shortcodes/vc_row.php:65
+#: includes/vc/shortcodes/vc_row.php:76
+#: includes/vc/shortcodes/vc_row_inner.php:16
+#: includes/vc/shortcodes/vc_row_inner.php:46
+#: includes/vc/shortcodes/vc_row_inner.php:53
+#: includes/vc/shortcodes/vc_row_inner.php:65
+#: includes/vc/shortcodes/vc_row_inner.php:76
+msgid "Design Options"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:20
+#: includes/vc/shortcodes/vc_column_inner.php:20
+#: includes/vc/shortcodes/vc_row.php:20
+#: includes/vc/shortcodes/vc_row_inner.php:20
+msgid "Row ID"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:24
+#: includes/vc/shortcodes/vc_column_inner.php:24
+#: includes/vc/shortcodes/vc_row.php:24
+#: includes/vc/shortcodes/vc_row_inner.php:24
+#, php-format
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href="
+"\"%s\" target=\"_blank\">w3c specification</a>)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:44
+#: includes/vc/shortcodes/vc_column_inner.php:44
+#: includes/vc/shortcodes/vc_row.php:44
+#: includes/vc/shortcodes/vc_row_inner.php:44
+msgid "Enable Responsive Settings?"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:47
+#: includes/vc/shortcodes/vc_column_inner.php:47
+#: includes/vc/shortcodes/vc_row.php:47
+#: includes/vc/shortcodes/vc_row_inner.php:47
+msgid ""
+"Select this checkbox to set different value in responsive views. If any "
+"value is not passed in responsive settings, it will use default or value set "
+"from it's higher settings."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:51
+#: includes/vc/shortcodes/vc_column_inner.php:51
+#: includes/vc/shortcodes/vc_row.php:51
+#: includes/vc/shortcodes/vc_row_inner.php:51
+msgid "Medium Devices (&#8805;992px)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:63
+#: includes/vc/shortcodes/vc_column_inner.php:63
+#: includes/vc/shortcodes/vc_row.php:63
+#: includes/vc/shortcodes/vc_row_inner.php:63
+msgid "Small Devices (&#8805;768px)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:74
+#: includes/vc/shortcodes/vc_column_inner.php:74
+#: includes/vc/shortcodes/vc_row.php:74
+#: includes/vc/shortcodes/vc_row_inner.php:74
+msgid "Extra Small Devices (<768px)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:89
+#: includes/vc/shortcodes/vc_column_inner.php:89
+#: includes/vc/shortcodes/vc_row.php:89
+#: includes/vc/shortcodes/vc_row_inner.php:89
+msgid "Row Background Color Type"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:92
+#: includes/vc/shortcodes/vc_column_inner.php:92
+#: includes/vc/shortcodes/vc_row.php:92
+#: includes/vc/shortcodes/vc_row_inner.php:92
+msgid "None"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:93
+#: includes/vc/shortcodes/vc_column_inner.php:93
+#: includes/vc/shortcodes/vc_row.php:93
+#: includes/vc/shortcodes/vc_row_inner.php:93
+msgid "Light Background"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:94
+#: includes/vc/shortcodes/vc_column_inner.php:94
+#: includes/vc/shortcodes/vc_row.php:94
+#: includes/vc/shortcodes/vc_row_inner.php:94
+msgid "Dark Background"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:96
+#: includes/vc/shortcodes/vc_column.php:115
+#: includes/vc/shortcodes/vc_column.php:125
+#: includes/vc/shortcodes/vc_column.php:136
+#: includes/vc/shortcodes/vc_column_inner.php:96
+#: includes/vc/shortcodes/vc_column_inner.php:115
+#: includes/vc/shortcodes/vc_column_inner.php:125
+#: includes/vc/shortcodes/vc_column_inner.php:136
+#: includes/vc/shortcodes/vc_row.php:96 includes/vc/shortcodes/vc_row.php:115
+#: includes/vc/shortcodes/vc_row.php:125 includes/vc/shortcodes/vc_row.php:136
+#: includes/vc/shortcodes/vc_row_inner.php:96
+#: includes/vc/shortcodes/vc_row_inner.php:115
+#: includes/vc/shortcodes/vc_row_inner.php:125
+#: includes/vc/shortcodes/vc_row_inner.php:136
+msgid "Background"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:104
+#: includes/vc/shortcodes/vc_column_inner.php:104
+#: includes/vc/shortcodes/vc_row.php:104
+#: includes/vc/shortcodes/vc_row_inner.php:104
+msgid "Select Background Position"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:111
+#: includes/vc/shortcodes/vc_column_inner.php:111
+#: includes/vc/shortcodes/vc_row.php:111
+#: includes/vc/shortcodes/vc_row_inner.php:111
+msgid "Center Top"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:123
+#: includes/vc/shortcodes/vc_column_inner.php:123
+#: includes/vc/shortcodes/vc_row.php:123
+#: includes/vc/shortcodes/vc_row_inner.php:123
+msgid "Enable Overlay?"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:129
+#: includes/vc/shortcodes/vc_column_inner.php:129
+#: includes/vc/shortcodes/vc_row.php:129
+#: includes/vc/shortcodes/vc_row_inner.php:129
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:131
+#: includes/vc/shortcodes/vc_column_inner.php:131
+#: includes/vc/shortcodes/vc_row.php:131
+#: includes/vc/shortcodes/vc_row_inner.php:131
+msgid "Select overlay color."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:144
+#: includes/vc/shortcodes/vc_column_inner.php:144
+#: includes/vc/shortcodes/vc_row.php:144
+#: includes/vc/shortcodes/vc_row_inner.php:144
+msgid "Vertical Half Overlap"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:145
+#: includes/vc/shortcodes/vc_column_inner.php:145
+#: includes/vc/shortcodes/vc_row.php:145
+#: includes/vc/shortcodes/vc_row_inner.php:145
+msgid "This will enable to place current row above previous and next rows."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:147
+#: includes/vc/shortcodes/vc_column.php:168
+#: includes/vc/shortcodes/vc_column_inner.php:147
+#: includes/vc/shortcodes/vc_column_inner.php:168
+#: includes/vc/shortcodes/vc_row.php:147
+#: includes/vc/shortcodes/vc_row_inner.php:147
+msgid "Extras"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:155
+#: includes/vc/shortcodes/vc_column_inner.php:155
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:158
+#: includes/vc/shortcodes/vc_column_inner.php:158
+#: includes/widgets/pgs_social_widgets.php:134
+msgid "Default"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:159
+#: includes/vc/shortcodes/vc_column_inner.php:159
+msgid "Left"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:160
+#: includes/vc/shortcodes/vc_column_inner.php:160
+msgid "Center"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:161
+#: includes/vc/shortcodes/vc_column_inner.php:161
+msgid "Right"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:162
+#: includes/vc/shortcodes/vc_column_inner.php:162
+msgid "Justify"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_column.php:165
+#: includes/vc/shortcodes/vc_column_inner.php:165
+msgid "Specify custom alignment for column content."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:8
+msgid "Font Weight"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:12
+msgid "Select Font Weight"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:13
+#: includes/vc/shortcodes/vc_custom_heading.php:63
+msgid "Normal"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:14
+msgid "Bold"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:15
+msgid "Bolder"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:16
+msgid "Lighter"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:17
+msgid "100"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:18
+msgid "200"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:19
+msgid "300"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:20
+msgid "400"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:21
+msgid "500"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:22
+msgid "600"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:23
+msgid "700"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:24
+msgid "800"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:25
+msgid "900"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:26
+#: includes/vc/shortcodes/vc_custom_heading.php:48
+#: includes/vc/shortcodes/vc_custom_heading.php:65
+msgid "Initial"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:31
+msgid "Select font weight."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:36
+#: includes/vc/shortcodes/vc_custom_heading.php:54
+#: includes/vc/shortcodes/vc_custom_heading.php:71
+#: includes/vc/shortcodes/vc_custom_heading.php:79
+msgid "Custom Font Settings"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:40
+msgid "Text Transform"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:44
+msgid "Select Text Transform"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:45
+msgid "Capitalize"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:46
+msgid "Uppercase"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:47
+msgid "Lowercase"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:53
+msgid "Select text transform."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:58
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:62
+msgid "Select Letter Spacing"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:64
+msgid "Custom"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:70
+msgid "Select letter spacing."
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:76
+msgid "Letter Spacing (Custom)"
+msgstr ""
+
+#: includes/vc/shortcodes/vc_custom_heading.php:78
+msgid ""
+"Enter custom letter spacing i.e. 10px, 1em, or 100%. If you want to add "
+"value in decimal like \".5em\", then use complete decimal format like \"0.5em"
+"\". Allowed units are px, em, and %."
+msgstr ""
+
+#: includes/vc/templates/about-3-image-box-with-bg.php:4
+msgid "About 3 image Box With Bg"
+msgstr ""
+
+#: includes/vc/templates/about-3-image-box-with-bg.php:5
+#: includes/vc/templates/about-3-image-box.php:5
+#: includes/vc/templates/about-image-left-style1.php:5
+#: includes/vc/templates/about-image-left-style2.php:5
+#: includes/vc/templates/about-image-left-style3.php:5
+#: includes/vc/templates/about-image-left-style4.php:5
+#: includes/vc/templates/about-image-left-style5.php:5
+#: includes/vc/templates/about-image-left-style6.php:5
+#: includes/vc/templates/about-image-popup.php:5
+#: includes/vc/templates/about-image-with-text-center.php:5
+#: includes/vc/templates/about-info-counter-style.php:5
+#: includes/vc/templates/about-info-with-list.php:5
+#: includes/vc/templates/about-info-with-service-list.php:5
+#: includes/vc/templates/about-info-with-signature.php:5
+#: includes/vc/templates/about-info-with-signature2.php:5
+#: includes/vc/templates/about-info-with-signature3.php:5
+#: includes/vc/templates/about-info-with-signature4.php:5
+#: includes/vc/templates/about-info-with-signature5.php:5
+#: includes/vc/templates/about-info-with-signature6.php:5
+#: includes/vc/templates/about-info-with-signature7.php:5
+#: includes/vc/templates/about-info-with-signechar.php:5
+#: includes/vc/templates/about-info-with-signechar2.php:5
+#: includes/vc/templates/about-info-with-signechar3.php:5
+#: includes/vc/templates/about-info-with-signechar4.php:5
+#: includes/vc/templates/about-info-with-signechar5.php:5
+#: includes/vc/templates/about-info-with-skill.php:5
+#: includes/vc/templates/about-info-with-skill2.php:5
+#: includes/vc/templates/about-info-with-social.php:5
+#: includes/vc/templates/about-jewellery.php:5
+#: includes/vc/templates/about-kids-category.php:5
+#: includes/vc/templates/about-kids-info.php:5
+#: includes/vc/templates/about-left-parallax.php:5
+#: includes/vc/templates/about-left-right-image-style2.php:5
+#: includes/vc/templates/about-left-right-image.php:5
+#: includes/vc/templates/about-product-info.php:5
+#: includes/vc/templates/about-right-parallax.php:5
+#: includes/vc/templates/about-service.php:5
+#: includes/vc/templates/about-skill-bg-image.php:5
+#: includes/vc/templates/about-skill-parallax.php:5
+#: includes/vc/templates/about-with-4-image.php:5
+#: includes/vc/templates/about-with-accordion.php:5
+#: includes/vc/templates/about-with-center-image.php:5
+#: includes/vc/templates/about-with-center-image2.php:5
+#: includes/vc/templates/about-with-center-image3.php:5
+#: includes/vc/templates/about-with-counter.php:5
+#: includes/vc/templates/about-with-counter2.php:5
+#: includes/vc/templates/about-with-info-box.php:5
+#: includes/vc/templates/about-with-info-box2.php:5
+#: includes/vc/templates/about-with-list-counter.php:5
+#: includes/vc/templates/about-with-skill-gallery.php:5
+#: includes/vc/templates/about-with-tab-faq.php:5
+#: includes/vc/templates/about-with-tab.php:5
+#: includes/vc/templates/kite-box.php:5
+#: includes/vc/templates/payment-info-with-image.php:5
+#: includes/vc/templates/process-steps-left-right.php:5
+#: includes/vc/templates/right-image-with-numeric-info.php:5
+#: includes/vc/templates/top-image-with-content.php:5
+msgid "About"
+msgstr ""
+
+#: includes/vc/templates/about-3-image-box.php:4
+msgid "About 3 Image Box"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style1.php:4
+msgid "About Left Style 1"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style2.php:4
+msgid "About Left Style 2"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style3.php:4
+msgid "About Left Style 3"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style4.php:4
+msgid "About Left Style 4"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style5.php:4
+msgid "About Left Style 5"
+msgstr ""
+
+#: includes/vc/templates/about-image-left-style6.php:4
+msgid "About Left Style 6"
+msgstr ""
+
+#: includes/vc/templates/about-image-popup.php:4
+msgid "About with Magnific Popup"
+msgstr ""
+
+#: includes/vc/templates/about-image-with-text-center.php:4
+msgid "About Image With Text Center"
+msgstr ""
+
+#: includes/vc/templates/about-info-counter-style.php:4
+msgid "About Info Counter Style"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-list.php:4
+msgid "About Info with List"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-service-list.php:4
+msgid "About Info With Service List"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature.php:4
+msgid "About with Signature Style 1"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature2.php:4
+#: includes/vc/templates/about-info-with-signechar2.php:4
+msgid "About with Signature Style 2"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature3.php:4
+msgid "About with Signature Style 3"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature4.php:4
+msgid "About with Signature Style 4"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature5.php:4
+msgid "About with Signature Style 5"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature6.php:4
+msgid "About With Signature Style 6"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signature7.php:4
+msgid "About Info With Signature 7"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signechar.php:4
+msgid "About with Signechar Style 1"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signechar3.php:4
+msgid "About with Signechar Style 3"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signechar4.php:4
+msgid "About with Signechar Style 4"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-signechar5.php:4
+msgid "About with Signechar Style 5"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-skill.php:4
+msgid "About Info with Skill"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-skill2.php:4
+msgid "About Info with Skill 2"
+msgstr ""
+
+#: includes/vc/templates/about-info-with-social.php:4
+msgid "About Info with Social"
+msgstr ""
+
+#: includes/vc/templates/about-jewellery.php:4
+msgid "About Jewellery with Image"
+msgstr ""
+
+#: includes/vc/templates/about-kids-category.php:4
+msgid "About with Kids Category"
+msgstr ""
+
+#: includes/vc/templates/about-kids-info.php:4
+msgid "About Kids Info"
+msgstr ""
+
+#: includes/vc/templates/about-left-parallax.php:4
+msgid "About Image Left Parallax"
+msgstr ""
+
+#: includes/vc/templates/about-left-right-image-style2.php:4
+msgid "About Left Right Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/about-left-right-image.php:4
+msgid "About Left Right Image"
+msgstr ""
+
+#: includes/vc/templates/about-product-info.php:4
+msgid "About Product Info"
+msgstr ""
+
+#: includes/vc/templates/about-right-parallax.php:4
+msgid "About Image Right Parallax"
+msgstr ""
+
+#: includes/vc/templates/about-service.php:4
+msgid "About Service"
+msgstr ""
+
+#: includes/vc/templates/about-skill-bg-image.php:4
+msgid "About Skill with BG Image"
+msgstr ""
+
+#: includes/vc/templates/about-skill-parallax.php:4
+msgid "About Skill Left Parallax"
+msgstr ""
+
+#: includes/vc/templates/about-with-4-image.php:4
+msgid "About with 4 Image"
+msgstr ""
+
+#: includes/vc/templates/about-with-accordion.php:4
+msgid "About with Accordion"
+msgstr ""
+
+#: includes/vc/templates/about-with-center-image.php:4
+msgid "Info with Center Image"
+msgstr ""
+
+#: includes/vc/templates/about-with-center-image2.php:4
+msgid "Info with Center Image 2"
+msgstr ""
+
+#: includes/vc/templates/about-with-center-image3.php:4
+msgid "Info with Center Image 3"
+msgstr ""
+
+#: includes/vc/templates/about-with-counter.php:4
+msgid "About with Counter"
+msgstr ""
+
+#: includes/vc/templates/about-with-counter2.php:4
+msgid "About with Counter 2"
+msgstr ""
+
+#: includes/vc/templates/about-with-info-box.php:4
+msgid "About With Info Box"
+msgstr ""
+
+#: includes/vc/templates/about-with-info-box2.php:4
+msgid "About With Info Box 2"
+msgstr ""
+
+#: includes/vc/templates/about-with-list-counter.php:4
+msgid "About With List & Counter"
+msgstr ""
+
+#: includes/vc/templates/about-with-skill-gallery.php:4
+msgid "About with Skill & Gallery"
+msgstr ""
+
+#: includes/vc/templates/about-with-tab-faq.php:4
+msgid "About with Tab & Faq"
+msgstr ""
+
+#: includes/vc/templates/about-with-tab.php:4
+msgid "About with Tab"
+msgstr ""
+
+#: includes/vc/templates/action-box-bg-color.php:4
+msgid "Action Box Bg Color"
+msgstr ""
+
+#: includes/vc/templates/action-box-bg-color.php:5
+#: includes/vc/templates/action-box-bg-image-2.php:5
+#: includes/vc/templates/action-box-bg-image.php:5
+#: includes/vc/templates/action-box-full-bg.php:5
+#: includes/vc/templates/action-box-image-color-overlay.php:5
+#: includes/vc/templates/action-box-left-align.php:5
+#: includes/vc/templates/action-box-with-border.php:5
+msgid "Action Box"
+msgstr ""
+
+#: includes/vc/templates/action-box-bg-image-2.php:4
+msgid "Bg Image with Center Description"
+msgstr ""
+
+#: includes/vc/templates/action-box-bg-image.php:4
+msgid "Bg Image with Right Description"
+msgstr ""
+
+#: includes/vc/templates/action-box-full-bg.php:4
+msgid "Action Box Bg Image"
+msgstr ""
+
+#: includes/vc/templates/action-box-image-color-overlay.php:4
+msgid "Action Box Image Color Overlay"
+msgstr ""
+
+#: includes/vc/templates/action-box-left-align.php:4
+msgid "Action Box Left Align"
+msgstr ""
+
+#: includes/vc/templates/action-box-with-border.php:4
+msgid "Action Box with Dotted Border"
+msgstr ""
+
+#: includes/vc/templates/app-style1.php:4
+msgid "App Style 1"
+msgstr ""
+
+#: includes/vc/templates/app-style1.php:5
+msgid "App"
+msgstr ""
+
+#: includes/vc/templates/background-image-with-video.php:4
+msgid "Background Image With Video"
+msgstr ""
+
+#: includes/vc/templates/background-image-with-video.php:5
+#: includes/vc/templates/video-with-content.php:5
+#: includes/vc/templates/video-with-icon-on-top.php:5
+#: includes/vc/templates/video-with-info-box2.php:5
+#: includes/vc/templates/video-with-info.php:5
+#: includes/vc/templates/video-with-opening-hours.php:5
+#: includes/vc/templates/video-with-product-details.php:5
+#: includes/vc/templates/video-with-right-info.php:5
+msgid "Video"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-different-column.php:4
+msgid "2 Banner Image Different Column"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-different-column.php:5
+#: includes/vc/templates/banner-2-images-style2.php:5
+#: includes/vc/templates/banner-2-images-style3.php:5
+#: includes/vc/templates/banner-2-images-style4.php:5
+#: includes/vc/templates/banner-2-images-with-video.php:5
+#: includes/vc/templates/banner-2-images.php:5
+#: includes/vc/templates/banner-3-images-style2.php:5
+#: includes/vc/templates/banner-3-images-style3.php:5
+#: includes/vc/templates/banner-3-images-style4.php:5
+#: includes/vc/templates/banner-3-images-style5.php:5
+#: includes/vc/templates/banner-3-images.php:5
+#: includes/vc/templates/banner-3-left-categories.php:5
+#: includes/vc/templates/banner-4-images-style2.php:5
+#: includes/vc/templates/banner-4-images-style3.php:5
+#: includes/vc/templates/banner-4-images.php:5
+#: includes/vc/templates/banner-5-images-style2.php:5
+#: includes/vc/templates/banner-5-images.php:5
+#: includes/vc/templates/banner-about-3.php:5
+#: includes/vc/templates/banner-about.php:5
+#: includes/vc/templates/banner-with-info.php:5
+#: includes/vc/templates/banner-with-text.php:5
+#: includes/vc/templates/single-banner-style2.php:5
+#: includes/vc/templates/single-banner-style3.php:5
+#: includes/vc/templates/single-banner.php:5
+msgid "Banner"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-style2.php:4
+msgid "2 Banner Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-style3.php:4
+msgid "Banner 2 Images Style 3"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-style4.php:4
+msgid "Banner 2 Images Style 4"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images-with-video.php:4
+msgid "Banner 2 Images With Video"
+msgstr ""
+
+#: includes/vc/templates/banner-2-images.php:4
+msgid "2 Banner Image"
+msgstr ""
+
+#: includes/vc/templates/banner-3-images-style2.php:4
+msgid "Top 3 Banner Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/banner-3-images-style3.php:4
+msgid "3 Banner Image Style 3"
+msgstr ""
+
+#: includes/vc/templates/banner-3-images-style4.php:4
+msgid "3 Banner Image Style 4"
+msgstr ""
+
+#: includes/vc/templates/banner-3-images-style5.php:4
+msgid "Banner 3 Images Style 5"
+msgstr ""
+
+#: includes/vc/templates/banner-3-images.php:4
+msgid "3 Banner Image"
+msgstr ""
+
+#: includes/vc/templates/banner-3-left-categories.php:4
+msgid "Banner with left Category"
+msgstr ""
+
+#: includes/vc/templates/banner-4-images-style2.php:4
+msgid "4 Banner Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/banner-4-images-style3.php:4
+msgid "4 Banner Image Style 3"
+msgstr ""
+
+#: includes/vc/templates/banner-4-images.php:4
+msgid "4 Banner Image"
+msgstr ""
+
+#: includes/vc/templates/banner-5-images-style2.php:4
+msgid "5 Banner Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/banner-5-images.php:4
+msgid "5 Banner Image"
+msgstr ""
+
+#: includes/vc/templates/banner-about-3.php:4
+msgid "Banner About 2"
+msgstr ""
+
+#: includes/vc/templates/banner-about.php:4
+msgid "Banner About"
+msgstr ""
+
+#: includes/vc/templates/banner-with-info.php:4
+msgid "Banner With Info"
+msgstr ""
+
+#: includes/vc/templates/banner-with-text.php:4
+msgid "Banner With Text"
+msgstr ""
+
+#: includes/vc/templates/blog-style-1.php:4
+msgid "Blog Style"
+msgstr ""
+
+#: includes/vc/templates/blog-style-1.php:5
+#: includes/vc/templates/blog-style1-with-intro.php:5
+#: includes/vc/templates/blog-style1.php:5
+#: includes/vc/templates/blog-style2.php:5
+#: includes/vc/templates/blog-style3-with-intro.php:5
+#: includes/vc/templates/blog-style3.php:5
+msgid "Blog"
+msgstr ""
+
+#: includes/vc/templates/blog-style1-with-intro.php:4
+msgid "Blog Style 1 With Intro"
+msgstr ""
+
+#: includes/vc/templates/blog-style1.php:4
+msgid "Blog Style 1"
+msgstr ""
+
+#: includes/vc/templates/blog-style2.php:4
+msgid "Blog Style 2"
+msgstr ""
+
+#: includes/vc/templates/blog-style3-with-intro.php:4
+msgid "Blog Style 3 With Intro"
+msgstr ""
+
+#: includes/vc/templates/blog-style3.php:4
+msgid "Blog Style 3"
+msgstr ""
+
+#: includes/vc/templates/brand-6-grid-dark-bg.php:4
+msgid "6 Brand in Dark BG with Grid"
+msgstr ""
+
+#: includes/vc/templates/brand-6-grid-dark-bg.php:5
+#: includes/vc/templates/brand-left-image.php:5
+#: includes/vc/templates/brand-newslatter-instagram.php:5
+#: includes/vc/templates/brand-with-action-box.php:5
+#: includes/vc/templates/brand-with-left-info.php:5
+#: includes/vc/templates/brand-with-skill.php:5
+#: includes/vc/templates/brand-with-slider.php:5
+msgid "Brand"
+msgstr ""
+
+#: includes/vc/templates/brand-left-image.php:4
+msgid "Brand with Left image"
+msgstr ""
+
+#: includes/vc/templates/brand-newslatter-instagram.php:4
+msgid "Brand Newsletter & Instagram"
+msgstr ""
+
+#: includes/vc/templates/brand-with-action-box.php:4
+msgid "Brand with Action Box"
+msgstr ""
+
+#: includes/vc/templates/brand-with-left-info.php:4
+msgid "Left Info with Theme BG"
+msgstr ""
+
+#: includes/vc/templates/brand-with-skill.php:4
+msgid "Brand with Skill"
+msgstr ""
+
+#: includes/vc/templates/brand-with-slider.php:4
+msgid "Slider with Theme BG"
+msgstr ""
+
+#: includes/vc/templates/category-list-style2.php:4
+msgid "Category List Style 2"
+msgstr ""
+
+#: includes/vc/templates/category-list-style2.php:5
+#: includes/vc/templates/category-list.php:5
+#: includes/vc/templates/category3-images-style.php:5
+#: includes/vc/templates/category3-images-style2.php:5
+#: includes/vc/templates/category5-images-with-border.php:5
+#: woocommerce/single-product/meta.php:47
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vc/templates/category-list.php:4
+msgid "Category List"
+msgstr ""
+
+#: includes/vc/templates/category3-images-style.php:4
+msgid "Category 3 Images style"
+msgstr ""
+
+#: includes/vc/templates/category3-images-style2.php:4
+msgid "Category 3 Images Style 2"
+msgstr ""
+
+#: includes/vc/templates/category5-images-with-border.php:4
+msgid "Category 5 Images With Border"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style1.php:4
+msgid "Contact Info Style 1"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style1.php:5
+#: includes/vc/templates/contact-info-style10.php:5
+#: includes/vc/templates/contact-info-style11.php:5
+#: includes/vc/templates/contact-info-style2.php:5
+#: includes/vc/templates/contact-info-style3.php:5
+#: includes/vc/templates/contact-info-style4.php:5
+#: includes/vc/templates/contact-info-style5.php:5
+#: includes/vc/templates/contact-info-style6.php:5
+#: includes/vc/templates/contact-info-style7.php:5
+#: includes/vc/templates/contact-info-style8.php:5
+#: includes/vc/templates/contact-info-style9.php:5
+msgid "Contact Info"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style10.php:4
+msgid "Contact Info left Map"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style11.php:4
+msgid "Contact Info in Different Color"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style2.php:4
+msgid "Contact Info Style 2"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style3.php:4
+msgid "Contact Info Style 3"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style4.php:4
+msgid "Contact Info Style 4"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style5.php:4
+msgid "Contact Info Style 5"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style6.php:4
+msgid "Contact Info 3 Box"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style7.php:4
+msgid "full widht 3 box"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style8.php:4
+msgid "Left Info with Map"
+msgstr ""
+
+#: includes/vc/templates/contact-info-style9.php:4
+msgid "Top Info with Bottom Map"
+msgstr ""
+
+#: includes/vc/templates/counter-in-square.php:4
+msgid "Counter in Square BG"
+msgstr ""
+
+#: includes/vc/templates/counter-in-square.php:5
+#: includes/vc/templates/counter-only-number.php:5
+#: includes/vc/templates/counter-only-number2.php:5
+#: includes/vc/templates/counter-top-icon-rounded.php:5
+#: includes/vc/templates/counter-top-icon.php:5
+#: includes/vc/templates/counter-with-border.php:5
+#: includes/vc/templates/counter-with-info.php:5
+#: includes/vc/templates/counter-with-skill-image.php:5
+msgid "Counter"
+msgstr ""
+
+#: includes/vc/templates/counter-only-number.php:4
+msgid "Counter Only Number"
+msgstr ""
+
+#: includes/vc/templates/counter-only-number2.php:4
+msgid "Counter Only Number 2"
+msgstr ""
+
+#: includes/vc/templates/counter-top-icon-rounded.php:4
+msgid "Counter Top Icon Rounded"
+msgstr ""
+
+#: includes/vc/templates/counter-top-icon.php:4
+msgid "Counter Top Icon"
+msgstr ""
+
+#: includes/vc/templates/counter-with-border.php:4
+msgid "Counter with Border"
+msgstr ""
+
+#: includes/vc/templates/counter-with-info.php:4
+msgid "Counter with Info"
+msgstr ""
+
+#: includes/vc/templates/counter-with-skill-image.php:4
+msgid "Counter with Skill & Gallery"
+msgstr ""
+
+#: includes/vc/templates/custom-product-categories.php:4
+msgid "Custom Product Categories"
+msgstr ""
+
+#: includes/vc/templates/custom-product-categories.php:5
+#: includes/vc/templates/product-categories-2.php:5
+#: includes/vc/templates/product-categories-list-image.php:5
+#: includes/vc/templates/product-categories-list-image2.php:5
+#: includes/vc/templates/product-categories.php:5
+#: includes/vc/templates/product-category-details.php:5
+#: includes/vc/templates/product-deal-left-intro.php:5
+#: includes/vc/templates/product-info.php:5
+#: includes/vc/templates/product-left-right-info.php:5
+#: includes/vc/templates/product-look-book.php:5
+#: includes/vc/templates/product-showcase-with-banner.php:5
+#: includes/vc/templates/product-showcase-with-banner2.php:5
+#: includes/vc/templates/product-showcase.php:5
+#: includes/vc/templates/product-white-bg-with-image.php:5
+#: includes/vc/templates/product-white-bg-with-image2.php:5
+#: includes/vc/templates/product-with-banner.php:5
+#: includes/vc/templates/product-with-banner2.php:5
+#: includes/vc/templates/product-with-banner3.php:5
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:82
+msgid "Product"
+msgstr ""
+
+#: includes/vc/templates/customer-reviews.php:4
+msgid "Customer Reviews"
+msgstr ""
+
+#: includes/vc/templates/customer-reviews.php:5
+#: includes/vc/templates/inline-testimonial-with-heading.php:5
+#: includes/vc/templates/testimonial-dark-bg-full-style1.php:5
+#: includes/vc/templates/testimonial-dark-bg-full-style3.php:5
+#: includes/vc/templates/testimonial-dark-bg-style1.php:5
+#: includes/vc/templates/testimonial-dark-bg-style2.php:5
+#: includes/vc/templates/testimonial-full-bg-image-style1.php:5
+#: includes/vc/templates/testimonial-left-bg-image-style1.php:5
+#: includes/vc/templates/testimonial-light-bg-style1.php:5
+#: includes/vc/templates/testimonial-light-bg-style2.php:5
+#: includes/vc/templates/testimonial-with-brand.php:5
+#: includes/vc/templates/testimonial-with-deals-products.php:5
+#: includes/vc/templates/testimonial-with-info.php:5
+#: includes/vc/templates/testimonial-with-skill.php:5
+#: includes/vc/templates/testimonial-with-skill2.php:5
+msgid "Testimonial"
+msgstr ""
+
+#: includes/vc/templates/form-blue-bg-with-pattern.php:4
+msgid "Form in BG with Pattern"
+msgstr ""
+
+#: includes/vc/templates/form-blue-bg-with-pattern.php:5
+#: includes/vc/templates/form-dark-bg-with-info.php:5
+#: includes/vc/templates/form-right-bg-image.php:5
+#: includes/vc/templates/form-right-bg-image2.php:5
+#: includes/vc/templates/form-right-bottom-info.php:5
+#: includes/vc/templates/form-right-contact-info.php:5
+#: includes/vc/templates/form-right-contact-info2.php:5
+#: includes/vc/templates/form-with-contact-info3.php:5
+#: includes/vc/templates/form-with-content.php:5
+#: includes/vc/templates/form-with-map.php:5
+#: includes/vc/templates/from-with-contact-info-2.php:5
+#: includes/vc/templates/from-with-contact-info.php:5
+#: includes/vc/templates/map-with-contact-info.php:5
+#: includes/vc/templates/top-map-with-from.php:5
+msgid "Form"
+msgstr ""
+
+#: includes/vc/templates/form-dark-bg-with-info.php:4
+msgid "Contact Form with Dark BG"
+msgstr ""
+
+#: includes/vc/templates/form-right-bg-image.php:4
+msgid "Left Form Right BG Image"
+msgstr ""
+
+#: includes/vc/templates/form-right-bg-image2.php:4
+msgid "Left Form Right BG Image 2"
+msgstr ""
+
+#: includes/vc/templates/form-right-bottom-info.php:4
+msgid "Right Contact with Bottom Info"
+msgstr ""
+
+#: includes/vc/templates/form-right-contact-info.php:4
+msgid "Right Contact Info"
+msgstr ""
+
+#: includes/vc/templates/form-right-contact-info2.php:4
+msgid "Form Right Contact Info 2"
+msgstr ""
+
+#: includes/vc/templates/form-with-contact-info3.php:4
+msgid "Form With Contact Info 3"
+msgstr ""
+
+#: includes/vc/templates/form-with-content.php:4
+msgid "Form With Content"
+msgstr ""
+
+#: includes/vc/templates/form-with-map.php:4
+msgid "Contact Form with Map"
+msgstr ""
+
+#: includes/vc/templates/from-with-contact-info-2.php:4
+msgid "From With Contact Info 2"
+msgstr ""
+
+#: includes/vc/templates/from-with-contact-info.php:4
+msgid "Form With Contact Info"
+msgstr ""
+
+#: includes/vc/templates/hotspots-bicycle.php:4
+msgid "Bicycle Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-bicycle.php:5
+#: includes/vc/templates/hotspots-denim.php:5
+#: includes/vc/templates/hotspots-electronic.php:5
+#: includes/vc/templates/hotspots-furniture.php:5
+#: includes/vc/templates/hotspots-landing-shoes.php:5
+#: includes/vc/templates/hotspots-petstore.php:5
+#: includes/vc/templates/hotspots-plumbing.php:5
+#: includes/vc/templates/hotspots-toolkito.php:5
+#: includes/vc/templates/weapon-hotspots.php:5
+msgid "Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-denim.php:4
+msgid "Hotspots Denim"
+msgstr ""
+
+#: includes/vc/templates/hotspots-electronic.php:4
+msgid "Electronic Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-furniture.php:4
+msgid "Furniture Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-landing-shoes.php:4
+msgid "Landing Shoes Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-petstore.php:4
+msgid "Hotspots Petstore"
+msgstr ""
+
+#: includes/vc/templates/hotspots-plumbing.php:4
+msgid "Plumbing Hotspots"
+msgstr ""
+
+#: includes/vc/templates/hotspots-toolkito.php:4
+msgid "Hotspots Toolkito"
+msgstr ""
+
+#: includes/vc/templates/iconbox-3box-with-pattern.php:4
+msgid "Feature 3 Box with Pattern"
+msgstr ""
+
+#: includes/vc/templates/iconbox-3box-with-pattern.php:5
+#: includes/vc/templates/iconbox-6-reasons-2.php:5
+#: includes/vc/templates/iconbox-6-reasons-3.php:5
+#: includes/vc/templates/iconbox-6-reasons.php:5
+#: includes/vc/templates/iconbox-bg-image-bottom.php:5
+#: includes/vc/templates/iconbox-bg-image-overlay.php:5
+#: includes/vc/templates/iconbox-dark-bg-overlay.php:5
+#: includes/vc/templates/iconbox-left-BG-image.php:5
+#: includes/vc/templates/iconbox-left-big-image.php:5
+#: includes/vc/templates/iconbox-with-6-box.php:5
+#: includes/vc/templates/iconbox-with-bg-image.php:5
+#: includes/vc/templates/iconbox-with-icon-border.php:5
+#: includes/vc/templates/iconbox-with-right-info.php:5
+#: includes/vc/templates/iconbox-with-video-popup.php:5
+#: includes/vc/templates/iconbox-with-video-popup2.php:5
+msgid "Feature Box"
+msgstr ""
+
+#: includes/vc/templates/iconbox-6-reasons-2.php:4
+msgid "6 Reasons Style 2"
+msgstr ""
+
+#: includes/vc/templates/iconbox-6-reasons-3.php:4
+msgid "6 Reasons Style 3"
+msgstr ""
+
+#: includes/vc/templates/iconbox-6-reasons.php:4
+msgid "6 Reasons Style 1"
+msgstr ""
+
+#: includes/vc/templates/iconbox-bg-image-bottom.php:4
+msgid "6 Icon with BG Image Bottom"
+msgstr ""
+
+#: includes/vc/templates/iconbox-bg-image-overlay.php:4
+msgid "Icon Box Bg Image Overlay"
+msgstr ""
+
+#: includes/vc/templates/iconbox-dark-bg-overlay.php:4
+msgid "Iconbox with Dark Bg Overlay"
+msgstr ""
+
+#: includes/vc/templates/iconbox-left-BG-image.php:4
+msgid "Left BG Image 4 Iconbox"
+msgstr ""
+
+#: includes/vc/templates/iconbox-left-big-image.php:4
+msgid "Iconbox Left Big Image"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-6-box.php:4
+msgid "6 Icon Box"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-bg-image.php:4
+msgid "Iconbox with BG Image"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-icon-border.php:4
+msgid "6 Icon Box with Border"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-right-info.php:4
+msgid "Iconbox with Right Info"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-video-popup.php:4
+msgid "Icon with Video Style 1"
+msgstr ""
+
+#: includes/vc/templates/iconbox-with-video-popup2.php:4
+msgid "Icon with Video Style 2"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-different-color.php:4
+msgid "Info Box 3 Different Color"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-different-color.php:5
+#: includes/vc/templates/infobox-3-top-center-border.php:5
+#: includes/vc/templates/infobox-3-with-dark-bg.php:5
+#: includes/vc/templates/infobox-3-with-icon-bg.php:5
+#: includes/vc/templates/infobox-3-with-white-bg.php:5
+#: includes/vc/templates/infobox-4-info-box-border.php:5
+#: includes/vc/templates/infobox-4-info-box-flat.php:5
+#: includes/vc/templates/infobox-different-color-style2.php:5
+#: includes/vc/templates/infobox-full-with-border.php:5
+#: includes/vc/templates/infobox-full-with-dark-bg.php:5
+#: includes/vc/templates/infobox-grey-bg-with-border.php:5
+#: includes/vc/templates/infobox-pattern-bg-border.php:5
+#: includes/vc/templates/infobox-rounded-icon-in-dark-bg.php:5
+#: includes/vc/templates/infobox-theme-bg-with-button.php:5
+#: includes/vc/templates/infobox-with-bg-style-1.php:5
+#: includes/vc/templates/infobox-with-bg-style-2.php:5
+#: includes/vc/templates/infobox-with-image-center-style1.php:5
+#: includes/vc/templates/infobox-with-image-style2.php:5
+#: includes/vc/templates/infobox-with-image.php:5
+#: includes/vc/templates/infobox-with-number-bg.php:5
+#: includes/vc/templates/infobox-with-step-style1.php:5
+#: includes/vc/templates/infobox-with-top-info.php:5
+msgid "Info Box"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-top-center-border.php:4
+msgid "Icon Top Center with Border"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-with-dark-bg.php:4
+msgid "3 Info with Dark BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-with-icon-bg.php:4
+msgid "3 Info with Icon BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-3-with-white-bg.php:4
+msgid "3 Info with White BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-4-info-box-border.php:4
+msgid "4 Info Box with Border"
+msgstr ""
+
+#: includes/vc/templates/infobox-4-info-box-flat.php:4
+msgid "4 Info Box with Flat"
+msgstr ""
+
+#: includes/vc/templates/infobox-different-color-style2.php:4
+msgid "Info Box Different Color Style 2"
+msgstr ""
+
+#: includes/vc/templates/infobox-full-with-border.php:4
+msgid "Full width with Border"
+msgstr ""
+
+#: includes/vc/templates/infobox-full-with-dark-bg.php:4
+msgid "Full width with Dark BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-grey-bg-with-border.php:4
+msgid "Info in Grey BG with Border"
+msgstr ""
+
+#: includes/vc/templates/infobox-pattern-bg-border.php:4
+msgid "Pattern in BG with Border"
+msgstr ""
+
+#: includes/vc/templates/infobox-rounded-icon-in-dark-bg.php:4
+msgid "Rounded Icon in Dark BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-theme-bg-with-button.php:4
+msgid "Info in Theme BG with Button"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-bg-style-1.php:4
+msgid "Info Box with BG Style 1"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-bg-style-2.php:4
+msgid "Info Box with BG Style 2"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-image-center-style1.php:4
+msgid "Infobox With Image Center Style 1"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-image-style2.php:4
+msgid "Infobox With Image Style 2"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-image.php:4
+msgid "Infobox With Image"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-number-bg.php:4
+msgid "Info Box with Number in BG"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-step-style1.php:4
+msgid "Infobox With Step Style 1"
+msgstr ""
+
+#: includes/vc/templates/infobox-with-top-info.php:4
+msgid "Top Title with Info"
+msgstr ""
+
+#: includes/vc/templates/inline-testimonial-with-heading.php:4
+msgid "Inline Testimonial With Heading"
+msgstr ""
+
+#: includes/vc/templates/kite-box.php:4
+msgid "Kite Box"
+msgstr ""
+
+#: includes/vc/templates/left-image-with-service.php:4
+msgid "Left Image With Services"
+msgstr ""
+
+#: includes/vc/templates/left-image-with-service.php:5
+#: includes/vc/templates/service-list.php:5
+#: includes/vc/templates/services-bg-image-3box.php:5
+#: includes/vc/templates/services-bg-image-overlay.php:5
+#: includes/vc/templates/services-box-with-bg.php:5
+#: includes/vc/templates/services-box-with-bg2.php:5
+#: includes/vc/templates/services-box-with-step.php:5
+#: includes/vc/templates/services-image-with-content.php:5
+#: includes/vc/templates/services-left-right-info.php:5
+#: includes/vc/templates/services-left-right-info2.php:5
+#: includes/vc/templates/services-left-right-info3.php:5
+#: includes/vc/templates/services-left-right-info4.php:5
+#: includes/vc/templates/services-left-right-info5.php:5
+#: includes/vc/templates/services-left-right-info6.php:5
+#: includes/vc/templates/services-left-right-with-multi-color.php:5
+#: includes/vc/templates/services-theme-bg-pattern.php:5
+#: includes/vc/templates/services-with-3box.php:5
+#: includes/vc/templates/services-with-4box.php:5
+#: includes/vc/templates/services-with-6box-2.php:5
+#: includes/vc/templates/services-with-6box.php:5
+#: includes/vc/templates/services-with-icon-box.php:5
+msgid "Services"
+msgstr ""
+
+#: includes/vc/templates/map-with-contact-info.php:4
+msgid "Map With Contact Info"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style-default.php:4
+msgid "Newsletter Style Default"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style-default.php:5
+#: includes/vc/templates/newsletter-style1-3.1.php:5
+#: includes/vc/templates/newsletter-style1-3.php:5
+#: includes/vc/templates/newsletter-style1-6.php:5
+#: includes/vc/templates/newsletter-style3-2.php:5
+#: includes/vc/templates/newsletter-style3-3.php:5
+#: includes/vc/templates/newsletter-style3-4.php:5
+#: includes/vc/templates/newsletter-style3-5.php:5
+#: includes/vc/templates/newsletter-style3.php:5
+#: includes/vc/templates/newsletter-style6-2.php:5
+#: includes/vc/templates/newsletter-style6.php:5
+#: includes/vc/templates/newsletter-with-banner.php:5
+#: includes/vc/templates/newsletter-with-icon.php:5
+#: includes/vc/templates/subscribe-style1-2.php:5
+#: includes/vc/templates/subscribe-style1.php:5
+msgid "Newsletter"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style1-3.1.php:4
+msgid "Newsletter With Background Color"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style1-3.php:4
+msgid "Newsletter With Colored Input Box"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style1-6.php:4
+msgid "Newsletter With Custom Heading"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style3-2.php:4
+msgid "Newsletter With Background Color 2"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style3-3.php:4
+msgid "Newsletter With Background Color 3"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style3-4.php:4
+msgid "Newsletter With Title Left"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style3-5.php:4
+msgid "Newsletter With Image & Color In BG"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style3.php:4
+msgid "Newsletter With Background Color 1"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style6-2.php:4
+msgid "Newsletter With Background Image"
+msgstr ""
+
+#: includes/vc/templates/newsletter-style6.php:4
+msgid "Newsletter With Icon In BG"
+msgstr ""
+
+#: includes/vc/templates/newsletter-with-banner.php:4
+msgid "Newsletter With Banner"
+msgstr ""
+
+#: includes/vc/templates/newsletter-with-icon.php:4
+msgid "Newsletter With Icon"
+msgstr ""
+
+#: includes/vc/templates/payment-info-with-image.php:4
+msgid "Payment Info with Image"
+msgstr ""
+
+#: includes/vc/templates/pricing-style1.php:4
+msgid "Pricing Style 1"
+msgstr ""
+
+#: includes/vc/templates/pricing-style1.php:5
+msgid "Pricing"
+msgstr ""
+
+#: includes/vc/templates/process-steps-left-right.php:4
+msgid "Process Steps Left Right"
+msgstr ""
+
+#: includes/vc/templates/product-categories-2.php:4
+msgid "Product Left Right"
+msgstr ""
+
+#: includes/vc/templates/product-categories-list-image.php:4
+msgid "Product Categories List Image"
+msgstr ""
+
+#: includes/vc/templates/product-categories-list-image2.php:4
+msgid "Product Categories List Image 2"
+msgstr ""
+
+#: includes/vc/templates/product-categories.php:4
+msgid "Product Categories"
+msgstr ""
+
+#: includes/vc/templates/product-category-details.php:4
+msgid "Product Category Details"
+msgstr ""
+
+#: includes/vc/templates/product-deal-left-intro.php:4
+msgid "Product Deal Left Intro"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style1.1.php:4
+msgid "Product Deal Style 1"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style1.1.php:5
+#: includes/vc/templates/product-deal-style1.php:5
+#: includes/vc/templates/product-deal-style10.php:5
+#: includes/vc/templates/product-deal-style2.php:5
+#: includes/vc/templates/product-deal-style3.1.php:5
+#: includes/vc/templates/product-deal-style3.php:5
+#: includes/vc/templates/product-deal-style5.php:5
+#: includes/vc/templates/product-deal-style6.php:5
+#: includes/vc/templates/product-deal-style7.1.php:5
+#: includes/vc/templates/product-deal-style7.php:5
+msgid "Deal"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style1.php:4
+msgid "Product Deal Style 2"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style10.php:4
+msgid "Product Deal Style 9"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style2.php:4
+msgid "Product Deal Style 3"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style3.1.php:4
+msgid "Product Deal Style 4"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style3.php:4
+msgid "Product Deal Style 5"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style5.php:4
+msgid "Product Deal Style 6"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style6.php:4
+#: includes/vc/templates/product-deal-style7.php:4
+msgid "Product Deal Style 7"
+msgstr ""
+
+#: includes/vc/templates/product-deal-style7.1.php:4
+msgid "Product Deal Style 8"
+msgstr ""
+
+#: includes/vc/templates/product-info.php:4
+msgid "Product Info"
+msgstr ""
+
+#: includes/vc/templates/product-left-right-info.php:4
+msgid "Product Left Right Info"
+msgstr ""
+
+#: includes/vc/templates/product-look-book.php:4
+msgid "Product in Look Book"
+msgstr ""
+
+#: includes/vc/templates/product-showcase-with-banner.php:4
+msgid "Product Showcase Banner"
+msgstr ""
+
+#: includes/vc/templates/product-showcase-with-banner2.php:4
+msgid "Product Showcase Banner 2"
+msgstr ""
+
+#: includes/vc/templates/product-showcase.php:4
+msgid "Product Showcase"
+msgstr ""
+
+#: includes/vc/templates/product-white-bg-with-image.php:4
+msgid "Section BG Image with Product"
+msgstr ""
+
+#: includes/vc/templates/product-white-bg-with-image2.php:4
+msgid "Section BG Image with Product 2"
+msgstr ""
+
+#: includes/vc/templates/product-with-banner.php:4
+msgid "Product With Banner"
+msgstr ""
+
+#: includes/vc/templates/product-with-banner2.php:4
+msgid "Product With Banner 2"
+msgstr ""
+
+#: includes/vc/templates/product-with-banner3.php:4
+msgid "Product With Banner 3"
+msgstr ""
+
+#: includes/vc/templates/right-image-with-numeric-info.php:4
+msgid "Right Image With Numeric Info"
+msgstr ""
+
+#: includes/vc/templates/sample-template/sample-template.php:4
+msgid "Template Title"
+msgstr ""
+
+#: includes/vc/templates/sample-template/sample-template.php:5
+msgid "Template Category"
+msgstr ""
+
+#: includes/vc/templates/service-list.php:4
+msgid "Service List"
+msgstr ""
+
+#: includes/vc/templates/services-bg-image-3box.php:4
+msgid "Services with 3 Image"
+msgstr ""
+
+#: includes/vc/templates/services-bg-image-overlay.php:4
+msgid "Services Bg Image Overlay"
+msgstr ""
+
+#: includes/vc/templates/services-box-with-bg.php:4
+msgid "Services Box with BG"
+msgstr ""
+
+#: includes/vc/templates/services-box-with-bg2.php:4
+msgid "Services 6 Box with BG"
+msgstr ""
+
+#: includes/vc/templates/services-box-with-step.php:4
+msgid "Services Box With Step"
+msgstr ""
+
+#: includes/vc/templates/services-image-with-content.php:4
+msgid "Services Image With Content"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info.php:4
+msgid "Services Left Right Box"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info2.php:4
+msgid "Services Left Right Box 2"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info3.php:4
+msgid "Services Left Right Box 3"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info4.php:4
+msgid "Services Left Right Box 4"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info5.php:4
+msgid "Services Left Right Info 5"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-info6.php:4
+msgid "Services Left Right Info 6"
+msgstr ""
+
+#: includes/vc/templates/services-left-right-with-multi-color.php:4
+msgid "Services Left Right With Multi Color"
+msgstr ""
+
+#: includes/vc/templates/services-theme-bg-pattern.php:4
+msgid "Services Theme Bg with Pattern"
+msgstr ""
+
+#: includes/vc/templates/services-with-3box.php:4
+msgid "Services with 3 Icon Box"
+msgstr ""
+
+#: includes/vc/templates/services-with-4box.php:4
+msgid "Services with 4 Icon Box"
+msgstr ""
+
+#: includes/vc/templates/services-with-6box-2.php:4
+msgid "Services With 6 Image Box 2"
+msgstr ""
+
+#: includes/vc/templates/services-with-6box.php:4
+msgid "Services with 6 Image Box"
+msgstr ""
+
+#: includes/vc/templates/services-with-icon-box.php:4
+msgid "Services with Icon Box"
+msgstr ""
+
+#: includes/vc/templates/single-banner-style2.php:4
+msgid "Single Banner Style 2"
+msgstr ""
+
+#: includes/vc/templates/single-banner-style3.php:4
+msgid "Single Banner Style 3"
+msgstr ""
+
+#: includes/vc/templates/single-banner.php:4
+msgid "Single Banner"
+msgstr ""
+
+#: includes/vc/templates/subscribe-style1-2.php:4
+msgid "Newsletter Style 1 Design 2"
+msgstr ""
+
+#: includes/vc/templates/subscribe-style1.php:4
+msgid "Newsletter With Custom Heading 2"
+msgstr ""
+
+#: includes/vc/templates/testimonial-dark-bg-full-style1.php:4
+msgid "Testimonial Dark BG Style 2"
+msgstr ""
+
+#: includes/vc/templates/testimonial-dark-bg-full-style3.php:4
+msgid "Dark BG with Full Width Style 3"
+msgstr ""
+
+#: includes/vc/templates/testimonial-dark-bg-style1.php:4
+msgid "Dark BG with Style 1"
+msgstr ""
+
+#: includes/vc/templates/testimonial-dark-bg-style2.php:4
+msgid "Testimonial Dark BG Style 3"
+msgstr ""
+
+#: includes/vc/templates/testimonial-full-bg-image-style1.php:4
+msgid "Full BG with Style 1"
+msgstr ""
+
+#: includes/vc/templates/testimonial-left-bg-image-style1.php:4
+msgid "Left BG Image with Style 1"
+msgstr ""
+
+#: includes/vc/templates/testimonial-light-bg-style1.php:4
+msgid "Light BG with Style 1"
+msgstr ""
+
+#: includes/vc/templates/testimonial-light-bg-style2.php:4
+msgid "Light BG With Style 2"
+msgstr ""
+
+#: includes/vc/templates/testimonial-with-brand.php:4
+msgid "Testimonial with Brand"
+msgstr ""
+
+#: includes/vc/templates/testimonial-with-deals-products.php:4
+msgid "Testimonial with Deals Products"
+msgstr ""
+
+#: includes/vc/templates/testimonial-with-info.php:4
+msgid "Testimonial With Info Box"
+msgstr ""
+
+#: includes/vc/templates/testimonial-with-skill.php:4
+msgid "Testimonial with Skill"
+msgstr ""
+
+#: includes/vc/templates/testimonial-with-skill2.php:4
+msgid "Testimonial With Skill 2"
+msgstr ""
+
+#: includes/vc/templates/top-image-with-content.php:4
+msgid "Top Image With Content"
+msgstr ""
+
+#: includes/vc/templates/top-map-with-from.php:4
+msgid "Top Map With From"
+msgstr ""
+
+#: includes/vc/templates/video-with-content.php:4
+msgid "Video With Content"
+msgstr ""
+
+#: includes/vc/templates/video-with-icon-on-top.php:4
+msgid "Video with Icon on Top"
+msgstr ""
+
+#: includes/vc/templates/video-with-info-box2.php:4
+msgid "Video With Info Box 2"
+msgstr ""
+
+#: includes/vc/templates/video-with-info.php:4
+msgid "Video With Info"
+msgstr ""
+
+#: includes/vc/templates/video-with-opening-hours.php:4
+msgid "Video with Opening Hours"
+msgstr ""
+
+#: includes/vc/templates/video-with-product-details.php:4
+msgid "Video with Product Details"
+msgstr ""
+
+#: includes/vc/templates/video-with-right-info.php:4
+msgid "Video with Right Info Box"
+msgstr ""
+
+#: includes/vc/templates/weapon-hotspots.php:4
+msgid "Weapon Hotspots"
+msgstr ""
+
+#: includes/vc/theme-vc-templates-panel-editor.php:78
+msgid "CiyaShop Studio"
+msgstr ""
+
+#: includes/vc/theme-vc-templates-panel-editor.php:170
+msgid "Preview template"
+msgstr ""
+
+#: includes/vc/theme-vc-templates-panel-editor.php:171
+msgid "Add template"
+msgstr ""
+
+#: includes/vc/theme-vc-templates-panel-editor.php:417
+msgid "No title"
+msgstr ""
+
+#: includes/vc/theme-vc-templates.php:37
+msgid "Misc"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:20
+msgid "PGS Bestseller Products"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:21
+msgid "Display bestseller products in sidebar."
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:27
+msgid "Bestseller Products"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:28
+#: includes/widgets/pgs_layered_nav_filters.php:25
+#: includes/widgets/pgs_wc-widget-layered-nav.php:74
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:36
+msgid "Number of item"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:179
+#: includes/widgets/pgs_bestseller_product.php:181
+#: includes/widgets/pgs_featured_product.php:162
+#: includes/widgets/pgs_featured_product.php:164
+#: includes/widgets/pgs_related_product.php:178
+#: includes/widgets/pgs_related_product.php:180
+msgid "No thumb"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:213
+#: includes/widgets/pgs_featured_product.php:196
+#: includes/widgets/pgs_related_product.php:212
+#, php-format
+msgid "%1$s out of %2$s"
+msgstr ""
+
+#: includes/widgets/pgs_bestseller_product.php:220
+#: includes/widgets/pgs_featured_product.php:203
+#: includes/widgets/pgs_related_product.php:220
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/pgs_bestseller_product.php:234
+#: includes/widgets/pgs_featured_product.php:217
+#: includes/widgets/pgs_related_product.php:234
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/pgs_brand_flters.php:19
+msgid "PGS Brand Filters"
+msgstr ""
+
+#: includes/widgets/pgs_brand_flters.php:22
+msgid "Brand filters, for horizontal use only."
+msgstr ""
+
+#: includes/widgets/pgs_brand_flters.php:97
+#: includes/widgets/pgs_contactus_widgets.php:109
+#: includes/widgets/pgs_featured_product.php:267
+#: includes/widgets/pgs_newsletter_widgets.php:116
+#: includes/widgets/pgs_opening_hours.php:100
+#: includes/widgets/pgs_related_product.php:283
+#: includes/widgets/pgs_shop_flters.php:435
+#: includes/widgets/pgs_social_widgets.php:124
+#: includes/widgets/pgs_testimonials_widgets.php:172
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/pgs_brand_flters.php:102
+msgid "Show product counts"
+msgstr ""
+
+#: includes/widgets/pgs_brand_flters.php:150
+msgid "View All Products"
+msgstr ""
+
+#: includes/widgets/pgs_contactus_widgets.php:19
+msgid "PGS Contact Us"
+msgstr ""
+
+#: includes/widgets/pgs_contactus_widgets.php:20
+msgid "A Contact Us Sidebar Widget"
+msgstr ""
+
+#: includes/widgets/pgs_contactus_widgets.php:113
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/pgs_contactus_widgets.php:117
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/pgs_contactus_widgets.php:121
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/pgs_featured_product.php:19
+msgid "PGS Featured Products"
+msgstr ""
+
+#: includes/widgets/pgs_featured_product.php:20
+msgid "A Feature Products Sidebar Widget"
+msgstr ""
+
+#: includes/widgets/pgs_featured_product.php:38
+#: includes/widgets/pgs_featured_product.php:263
+msgid "Featured Products"
+msgstr ""
+
+#: includes/widgets/pgs_featured_product.php:271
+#: includes/widgets/pgs_instagram_widgets.php:114
+#: includes/widgets/pgs_instagram_widgets_2.php:107
+#: includes/widgets/pgs_related_product.php:287
+#: includes/widgets/pgs_testimonials_widgets.php:176
+msgid "Number of item:"
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets.php:18
+msgid "PGS Instagram"
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets.php:19
+#: includes/widgets/pgs_instagram_widgets_2.php:18
+msgid "A Instagram Sidebar Widget"
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets.php:105
+#: includes/widgets/pgs_instagram_widgets_2.php:103
+msgid "title:"
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets.php:109
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets.php:111
+msgid "Enter Instagram username or #hashtag."
+msgstr ""
+
+#: includes/widgets/pgs_instagram_widgets_2.php:17
+msgid "PGS Instagram 2"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:18
+msgid "Shows active layered nav filters so users can see and deactivate them."
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:20
+msgid "PGS Layered Nav Filters"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:24
+msgid "Active filters"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:153
+#: includes/widgets/pgs_layered_nav_filters.php:166
+#: includes/widgets/pgs_layered_nav_filters.php:183
+#: includes/widgets/pgs_layered_nav_filters.php:217
+msgid "Remove filter"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:170
+#, php-format
+msgid "Min %s"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:187
+#, php-format
+msgid "Max %s"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:200
+msgid "Remove category"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:207
+msgid "Remove search text"
+msgstr ""
+
+#: includes/widgets/pgs_layered_nav_filters.php:220
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:19
+msgid "PGS Newsletter"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:20
+msgid "A Newsletter Sidebar Widget"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:86
+msgid "Enter your email"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:90
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:120
+#: includes/widgets/pgs_social_widgets.php:128
+msgid "Content:"
+msgstr ""
+
+#: includes/widgets/pgs_newsletter_widgets.php:123
+msgid ""
+"MailChimp API key and List ID settings are moved in Theme Options. So, "
+"please update settings over there."
+msgstr ""
+
+#: includes/widgets/pgs_opening_hours.php:19
+msgid "PGS Opening Hours"
+msgstr ""
+
+#: includes/widgets/pgs_opening_hours.php:20
+msgid "A Opening Hours Widget"
+msgstr ""
+
+#: includes/widgets/pgs_related_product.php:19
+msgid "PGS Related Products"
+msgstr ""
+
+#: includes/widgets/pgs_related_product.php:20
+msgid ""
+"A Related Products Sidebar Widget. This widget only work on Product details "
+"page sidebar."
+msgstr ""
+
+#: includes/widgets/pgs_related_product.php:43
+#: includes/widgets/pgs_related_product.php:279
+msgid "Related Products"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:19
+msgid "PGS Shop Filters"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:22
+msgid ""
+"Display product filters in your store (for horizontal use only and will be "
+"available for shop/product listing slidebar only)."
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:52
+#: includes/widgets/pgs_shop_flters.php:430
+msgid "Shop Filter"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:94
+#: template-parts/header/header-elements/search-form.php:109
+#: template-parts/search-form.php:2
+msgid "Search for:"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:95
+msgid "Search products&hellip;"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:117
+#: includes/widgets/pgs_shop_flters.php:150
+msgid "Any Category"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:178
+#: includes/widgets/pgs_shop_flters.php:182
+msgid "Any Rating"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:179
+msgid "Star"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:298
+msgid "Min price"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:308
+msgid "Max price"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:314
+#: includes/widgets/pgs_shop_flters.php:431
+msgid "Filter"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:401
+#: includes/widgets/pgs_shop_flters.php:563
+#: includes/widgets/pgs_wc-widget-layered-nav.php:231
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:442
+msgid "Select Filter fields:"
+msgstr ""
+
+#: includes/widgets/pgs_shop_flters.php:469
+msgid "Select Filter Attributes:"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:20
+msgid "Social profiles."
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:29
+msgid "PGS Social"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:132
+msgid "style:"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:135
+msgid "Colored"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:136
+msgid "Dark Flat"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:137
+msgid "Light Flat"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:138
+msgid "Dark Border"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:139
+msgid "Light Border"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:143
+msgid "shape:"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:145
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/pgs_social_widgets.php:146
+msgid "Round"
+msgstr ""
+
+#: includes/widgets/pgs_testimonials_widgets.php:18
+msgid "PGS Testimonials"
+msgstr ""
+
+#: includes/widgets/pgs_testimonials_widgets.php:19
+msgid "A Testimonials Sidebar Widget"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:22
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:24
+msgid "PGS Filter Products by Attribute"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:73
+msgid "Filter by"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:79
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:85
+msgid "Display type"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:87
+msgid "List"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:94
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:96
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:97
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:269
+msgid "Apply"
+msgstr ""
+
+#: includes/widgets/pgs_wc-widget-layered-nav.php:303
+msgid "No matches found"
+msgstr ""
+
+#: includes/woocommerce/add-to-cart.php:44
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/woocommerce/compare.php:83
+msgid "Product Comparison"
+msgstr ""
+
+#: includes/woocommerce/init.php:136
+msgid "Share :"
+msgstr ""
+
+#: includes/woocommerce/loop-header.php:111
+msgid "Show sidebar"
+msgstr ""
+
+#: includes/woocommerce/loop-header.php:138
+msgid "Filters :"
+msgstr ""
+
+#: includes/woocommerce/loop-header.php:170
+msgid "Grid view"
+msgstr ""
+
+#: includes/woocommerce/loop-header.php:172
+msgid "List view"
+msgstr ""
+
+#: includes/woocommerce/loop-header.php:184
+msgid "View :"
+msgstr ""
+
+#: includes/woocommerce/single-product.php:73
+#: includes/woocommerce/single-product.php:96
+msgid "Size Guide"
+msgstr ""
+
+#: includes/woocommerce/single-product.php:822
+msgid ""
+"Note: If \"Color\" is set to \"CiyaShop\", \"Style\" will not be applicable."
+msgstr ""
+
+#: includes/woocommerce/single-product.php:847
+msgid "Custom Tab"
+msgstr ""
+
+#: includes/woocommerce/single-product.php:953
+#: includes/woocommerce/single-product.php:957
+msgid "Select options"
+msgstr ""
+
+#: includes/woocommerce/wc-classes.php:226
+#: woocommerce/single-product/add-to-cart/variable.php:130
+msgid "Clear"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:76
+msgid "Day"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:77
+msgid "Hrs"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:78
+msgid "Min"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:79
+msgid "Sec"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:186
+#: includes/woocommerce/wc-functions-variations.php:163
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/woocommerce/wc-functions-front.php:204
+msgid "Sale"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:241
+#, php-format
+msgid "Up to -%s"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:265
+msgid "Hot"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:359
+msgid "Dashboard"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:365
+msgid "Orders"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:371
+msgid "Downloads"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:377
+msgid "Address"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:383
+msgid "Account Details"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:454
+msgid "Shopping cart"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:455
+msgid "close"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:468
+msgid "The product has been added to your cart."
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:469
+msgid "Continue shopping"
+msgstr ""
+
+#: includes/woocommerce/wc-functions-front.php:470
+msgid "View Cart"
+msgstr ""
+
+#: includes/woocommerce/wc-functions.php:12
+msgid "Search Box"
+msgstr ""
+
+#: includes/woocommerce/wc-functions.php:14
+msgid "Ratings"
+msgstr ""
+
+#: includes/woocommerce/wc-functions.php:15
+msgid "Price Slider"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-portfolio.php:44 template-parts/single-portfolio.php:35
+msgid "Previous"
+msgstr ""
+
+#: single-portfolio.php:73 template-parts/single-portfolio.php:31
+#: woocommerce/single-product/product-navigation.php:71
+msgid "Next"
+msgstr ""
+
+#: template-parts/blog/classic/content-audio.php:55
+#: template-parts/blog/classic/content-gallery.php:146
+#: template-parts/blog/classic/content-image.php:59
+#: template-parts/blog/classic/content-quote.php:77
+#: template-parts/blog/classic/content-video.php:162
+#: template-parts/blog/classic/content.php:64
+#: template-parts/content-page.php:33 template-parts/content.php:60
+msgid "Pages"
+msgstr ""
+
+#: template-parts/blog/timeline.php:51
+msgid "No more posts to load"
+msgstr ""
+
+#: template-parts/content-faq.php:49 template-parts/content-team.php:42
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-portfolio.php:16
+#: template-parts/portfolio/single-related.php:92
+msgid "View Portfolio"
+msgstr ""
+
+#: template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:76 template-parts/entry_footer.php:7
+msgid "Read More"
+msgstr ""
+
+#: template-parts/entry_meta.php:37
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/entry_meta.php:46
+msgid "0"
+msgstr ""
+
+#: template-parts/entry_meta.php:47
+msgid "1"
+msgstr ""
+
+#: template-parts/entry_meta.php:48
+msgid "%"
+msgstr ""
+
+#: template-parts/entry_meta.php:51
+#, php-format
+msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: template-parts/faq/layout_2.php:59 template-parts/faq/layout_2.php:65
+msgid "Nothing found."
+msgstr ""
+
+#: template-parts/footer/cookies_info.php:19
+msgid "Accept"
+msgstr ""
+
+#: template-parts/footer/cookies_info.php:21
+msgid "More info"
+msgstr ""
+
+#: template-parts/footer/sticky-footer-elements/sticky_footer-account.php:11
+msgid "My Account"
+msgstr ""
+
+#: template-parts/footer/sticky-footer-elements/sticky_footer-cart.php:18
+#: template-parts/header/header-elements/woo-tools-cart.php:11
+#, php-format
+msgid "View Cart (%s)"
+msgstr ""
+
+#: template-parts/header/header-elements/search-form.php:10
+msgid "Enter Search Keyword..."
+msgstr ""
+
+#: template-parts/header/header-elements/search-form.php:74
+msgid "All Categories"
+msgstr ""
+
+#: template-parts/header/header_type/logo-center.php:46
+#: template-parts/page-header/title.php:52 template-parts/search-form.php:4
+msgid "Search"
+msgstr ""
+
+#: template-parts/header/topbar-elements/register.php:8
+msgid "Register"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:22
+msgid "Coming Soon"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:23
+msgid ""
+"We are currently working on a website and won't take long. Don't forget to "
+"check out our Social updates."
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:28
+msgid "Site is Under Maintenance"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:29
+msgid "This Site is Currently Under Maintenance. We will back shortly"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:51
+msgid "Days"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:52
+msgid "Hours"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:53
+msgid "Minutes"
+msgstr ""
+
+#: template-parts/maintenance/maintenance.php:54
+msgid "Seconds"
+msgstr ""
+
+#: template-parts/maintenance/newsletter.php:11
+msgid "We will notify you when site is ready :"
+msgstr ""
+
+#: template-parts/maintenance/newsletter.php:12
+msgid "Provide your email address!"
+msgstr ""
+
+#: template-parts/maintenance/newsletter.php:15
+msgid "Your email address"
+msgstr ""
+
+#: template-parts/maintenance/newsletter.php:16
+msgid "Notify Me"
+msgstr ""
+
+#: template-parts/page-header/title.php:28
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:34
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:37
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:42
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:45
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: template-parts/page-header/title.php:58
+msgid "404 error"
+msgstr ""
+
+#: template-parts/search-form.php:3
+msgid "Search the Site&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:102
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:108
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61 woocommerce/cart/mini-cart.php:51
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148 woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/custom/login-form.php:20
+msgid "Sign in Or Register"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:30 woocommerce/custom/login-form.php:31
+msgid "Username"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:35 woocommerce/custom/login-form.php:36
+msgid "Password"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:39
+msgid "Forgot your password?"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:48
+msgid "NEW HERE?"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:49
+msgid "Registration is free and easy!"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:51
+msgid "Faster checkout"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:52
+msgid "Save multiple shipping addresses"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:53
+msgid "View and track orders and more"
+msgstr ""
+
+#: woocommerce/custom/login-form.php:55
+msgid "Create an account"
+msgstr ""
+
+#: woocommerce/custom/shop-category-carousel.php:118
+msgid "product"
+msgstr ""
+
+#: woocommerce/custom/shop_page_banner.php:14
+#: woocommerce/custom/shop_page_banner.php:16
+msgid "Shop Banner"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:30
+#: woocommerce/single-product/sale-flash.php:30
+msgid "Featured!"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:35
+#: woocommerce/single-product/sale-flash.php:35
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:38
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "You must be %slogged in%S to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:38
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:25
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:49
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:153
+#: woocommerce/single-product/product-image.php:159
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/product-navigation.php:18
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/single-product/product-navigation.php:31
+#: woocommerce/single-product/product-navigation.php:99
+msgid "Rated 0 out of 5"
+msgstr ""
